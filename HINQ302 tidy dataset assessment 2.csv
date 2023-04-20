@@ -1,0 +1,1001 @@
+origin,ship,class,first_name,last_name,ages,date_disembarked,gender,race,occupation,destination,deck
+Southampton,Olympic,Third,Lynzie, Medina,10,04-17-1912,Male,Hispanic,Weaver,New York,5
+Liverpool,Celtic,Third,Jason, Santillan,33,04-20-1912,Male,Black,Mason,New York,4
+Southampton,Titanic,Third,Audrey, Ebel,16,04-20-1912,Male,Black,Tailor,New York,2
+Liverpool,Mauretania,Second,Christian, Rodrukkwun,15,04-18-1912,Female,Other,Merchant,New York,2
+Liverpool,Celtic,Third,Daniel, Newbern,44,04-18-1912,Male,White,Blacksmith,New York,1
+Liverpool,Lusitania,First,Garrett, Emm,1,04-17-1912,Female,Asian,Shoemaker,Cherbourg,4
+Liverpool,Carpathia,Second,Kevin, Naylon,16,04-18-1912,Male,Asian,Tailor,New York,1
+Liverpool,Lusitania,Second,Hannah, Canaday,13,04-15-1912,Female,Other,Tailor,New York,1
+Southampton,Britannic,Second,Lindsey, Holiday,3,04-16-1912,Female,Asian,Carpenter,New York,1
+Liverpool,Lusitania,Third,Farhaana, Al-ramin,72,04-20-1912,Female,Asian,None,New York,3
+Southampton,Britannic,First,Jacob, Yates,83,04-18-1912,Male,Hispanic,Miner,New York,2
+Liverpool,Adriatic,First,Suwailim, Al-hallal,26,04-20-1912,Male,Black,Mason,New York,3
+Liverpool,Baltic,Third,April, Sanders,87,04-16-1912,Male,White,Carpenter,New York,2
+Liverpool,Mauretania,First,Valerie, Dedera,48,04-16-1912,Male,Asian,Farmer,New York,3
+Southampton,Titanic,Second,Eddy, Meadows,37,04-19-1912,Male,Black,Merchant,New York,1
+Liverpool,Baltic,First,Tareia, Jones,98,04-16-1912,Male,White,Weaver,New York,2
+Liverpool,Mauretania,First,Taqiyya, El-eid,10,04-17-1912,Male,Hispanic,Miner,Cherbourg,3
+Southampton,Titanic,Third,Sepehr, Essad,3,04-18-1912,Male,White,None,New York,3
+Liverpool,Aquitania,First,Andrew, Chavarria,63,04-16-1912,Female,Asian,None,New York,2
+Southampton,Britannic,First,Armaan, Andrew,1,04-16-1912,Male,Asian,Blacksmith,New York,1
+Southampton,Britannic,Second,Peter, Duncan,24,04-15-1912,Female,Other,Weaver,New York,4
+Liverpool,Celtic,Second,Naasiruddeen, El-maroun,NA-,04-17-1912,Male,Other,Merchant,New York,2
+Southampton,Britannic,Third,Michael, Anderstrom,47,04-16-1912,Male,Black,Miner,New York,3
+Southampton,Olympic,Third,Fateena, El-akhter,16,04-18-1912,Female,White,Shoemaker,New York,5
+Liverpool,Mauretania,Third,Philip, Wood,3,04-20-1912,Male,Hispanic,Blacksmith,New York,2
+Liverpool,Carpathia,Third,Jenna, Oh,0,04-18-1912,Female,Hispanic,Mason,New York,1
+Liverpool,Celtic,Third,Austin, Bird,33,04-20-1912,Female,Hispanic,Weaver,New York,5
+Southampton,Olympic,Second,Rachel, Welch,3,04-18-1912,Male,Asian,Tailor,New York,4
+Liverpool,Lusitania,First,Richard, Pinto,57,04-15-1912,Male,Other,Shoemaker,New York,5
+Liverpool,Adriatic,Second,Michael, Youngblood,79,04-16-1912,Male,Hispanic,Miner,Cherbourg,1
+Liverpool,Aquitania,Third,Taylor, Lackey,37,04-18-1912,Female,White,Farmer,New York,2
+Liverpool,Celtic,Third,Nadeera, Al-saeed,8,04-15-1912,Female,Asian,Baker,New York,1
+Southampton,Britannic,Second,Christopher, Hatchett,40,04-20-1912,Male,Black,Miner,New York,5
+Liverpool,Aquitania,Second,Alexia, Palma,22,04-18-1912,Female,Asian,Blacksmith,New York,3
+Liverpool,Aquitania,Second,Doncey, Romero,16,04-16-1912,Male,White,Blacksmith,New York,5
+Southampton,Olympic,Second,Sean, Chavez,59,04-18-1912,Male,Black,Merchant,New York,2
+Southampton,Britannic,Second,Laura, Fleecs,17,04-18-1912,Female,Other,Baker,New York,4
+Liverpool,Mauretania,Third,Kolten, Farmer,4,04-15-1912,Male,White,Shoemaker,New York,5
+Liverpool,Carpathia,Third,Adam, Kim,7,04-17-1912,Male,Hispanic,Farmer,Cherbourg,2
+Southampton,Britannic,Second,Ibrahim, Smoot,67,04-18-1912,Female,White,Shoemaker,New York,2
+Liverpool,Carpathia,Third,Najeeb, Al-shariff,7,04-15-1912,Female,Hispanic,Carpenter,New York,2
+Southampton,Olympic,First,Nicholas, Livingston,90,04-19-1912,Female,Asian,Farmer,New York,4
+Liverpool,Carpathia,First,Shawnia, Liggett,NA-,04-17-1912,Female,Asian,Farmer,New York,3
+Liverpool,Baltic,Third,Javan, Thompkins Jr,90,04-15-1912,Female,Hispanic,Farmer,New York,5
+Southampton,Olympic,Second,Angelique, Amerson,7,04-15-1912,Male,White,Carpenter,New York,4
+Liverpool,Celtic,First,Kelsey, Bell,39,04-16-1912,Female,Asian,Farmer,New York,4
+Southampton,Titanic,Third,Naasif, El-othman,8,04-19-1912,Male,White,Farmer,Cherbourg,5
+Liverpool,Celtic,Second,Najeeah, Sally,nineteen-two,04-19-1912,Female,Other,Mason,New York,2
+Liverpool,Celtic,Third,Rachel, Isgar,87,04-19-1912,Male,Black,Baker,New York,4
+Liverpool,Aquitania,First,Mimi, Del Valle,70,04-16-1912,Female,Asian,Tailor,New York,4
+Liverpool,Lusitania,Second,Shameem, El-ally,8,04-18-1912,Male,White,Shoemaker,New York,4
+Liverpool,Celtic,Second,Jennifer, Jacobs,26,04-15-1912,Male,White,Weaver,New York,3
+Liverpool,Celtic,Third,Tony, Branham,97,04-19-1912,Male,Black,Merchant,New York,3
+Liverpool,Aquitania,Second,Kiana, Sawyer,19,04-18-1912,Male,White,Carpenter,New York,3
+Southampton,Olympic,Third,Bailey, Meckling,76,04-15-1912,Male,Other,Miner,New York,5
+Liverpool,Carpathia,Third,Tyler, Grams,54,04-16-1912,Male,Black,Merchant,Cherbourg,3
+Liverpool,Celtic,Third,Austin, Gonzales,27,04-20-1912,Male,White,Blacksmith,New York,5
+Liverpool,Baltic,Second,Aneesa, Al-amen,21,04-17-1912,Male,Hispanic,None,New York,3
+Liverpool,Adriatic,Third,Martin, Flores Velazquez,72,04-15-1912,Female,Asian,Mason,New York,1
+Liverpool,Aquitania,Second,Keeman, Irwin,34,04-18-1912,Female,Other,Blacksmith,New York,4
+Southampton,Britannic,Third,Savio, Mitta,81,04-17-1912,Female,Other,Blacksmith,New York,5
+Liverpool,Lusitania,Third,Samuel, Jacobi,6,04-19-1912,Male,White,Merchant,New York,2
+Liverpool,Celtic,First,Jacob, Donello,0,04-15-1912,Female,White,None,New York,5
+Liverpool,Celtic,First,Shaquasia, Reed-bankston,9,04-15-1912,Female,Hispanic,Miner,New York,2
+Liverpool,Carpathia,Second,Giovanna, Wood,61,04-19-1912,Male,Hispanic,Weaver,New York,4
+Liverpool,Adriatic,Second,Ethan, Heumann,25,04-15-1912,Male,Other,Baker,New York,3
+Liverpool,Lusitania,Third,Casey, Minor,4,04-16-1912,Female,Hispanic,Tailor,Cherbourg,2
+Liverpool,Baltic,Second,Damari, Manning Jr,27,04-15-1912,Male,Other,Shoemaker,New York,2
+Liverpool,Adriatic,Second,Kenneth, Canty,nineteen-three,04-20-1912,Female,Other,Tailor,New York,2
+Liverpool,Mauretania,Second,Jasmine, Romero,29,04-18-1912,Male,Black,Blacksmith,New York,4
+Liverpool,Adriatic,Second,Hannah, Arellano,2,04-19-1912,Female,Hispanic,Miner,New York,2
+Southampton,Britannic,Second,Lea, Pisarski,73,04-18-1912,Male,Hispanic,Tailor,New York,3
+Liverpool,Celtic,Second,Asmaa, Al-akbar,78,04-15-1912,Male,Hispanic,Blacksmith,Cherbourg,5
+Liverpool,Mauretania,Third,Sierra, Brown,28,04-16-1912,Female,Black,Miner,New York,2
+Liverpool,Carpathia,Third,Fabiola, Montes,75,04-16-1912,Female,Black,Tailor,New York,5
+Liverpool,Carpathia,First,Vanessa, Marquez,17,04-17-1912,Female,Hispanic,Blacksmith,New York,3
+Liverpool,Celtic,First,Peyton, Shearer,3,04-15-1912,Male,Other,Blacksmith,Cherbourg,3
+Liverpool,Aquitania,First,Samantha, Karki,44,04-19-1912,Male,Asian,Mason,New York,3
+Liverpool,Aquitania,Third,Tara, Strohl,47,04-17-1912,Male,Black,Weaver,New York,5
+Southampton,Titanic,First,Karen, Lucio Martinez,48,04-16-1912,Male,White,Mason,New York,4
+Liverpool,Mauretania,Third,Nazeeha, Al-saeed,0,04-20-1912,Male,White,Mason,New York,2
+Southampton,Olympic,First,William, Barkdoll,10,04-19-1912,Male,Hispanic,Baker,New York,4
+Liverpool,Baltic,First,Haakima, El-hussain,54,04-16-1912,Male,Hispanic,Miner,New York,5
+Liverpool,Lusitania,First,Sean, Berumen-gonzalez,75,04-17-1912,Male,Hispanic,Miner,New York,2
+Liverpool,Baltic,First,Rachael, Culpepper,77,04-20-1912,Female,Other,Weaver,New York,2
+Southampton,Titanic,Second,Derika, Robb,75,04-16-1912,Female,Other,Blacksmith,New York,4
+Liverpool,Baltic,Second,Quraish, Al-syed,1,04-19-1912,Female,Other,Mason,New York,4
+Liverpool,Adriatic,Second,Phuong, Campbell,85,04-17-1912,Male,Asian,Blacksmith,New York,1
+Southampton,Titanic,Second,Alexandria, Powell,1,04-15-1912,Male,White,Shoemaker,New York,4
+Southampton,Britannic,First,Darartu, Goosby,0,04-16-1912,Male,Black,Farmer,New York,4
+Liverpool,Celtic,Third,Brittney, Bustamante,85,04-16-1912,Female,Other,Baker,New York,2
+Liverpool,Aquitania,Third,Jarret, Higgins,65,04-17-1912,Female,Asian,Shoemaker,New York,5
+Liverpool,Lusitania,Third,Sarah, Silas,90,04-17-1912,Male,White,Mason,New York,1
+Liverpool,Celtic,Second,Paul James, Kloberdanz,93,04-18-1912,Male,Hispanic,Miner,New York,3
+Liverpool,Mauretania,Third,Derik, Frees,63,04-16-1912,Male,White,Farmer,New York,3
+Liverpool,Lusitania,Second,Saleel, Al-zia,20,04-19-1912,Female,Black,Merchant,New York,1
+Liverpool,Adriatic,First,Zaidaan, Al-shahan,16,04-20-1912,Male,Asian,Tailor,New York,5
+Liverpool,Celtic,First,Erica, Vigil,38,04-18-1912,Female,Other,Weaver,New York,3
+Liverpool,Mauretania,Second,Zachariah, Jensen,63,04-16-1912,Male,White,Shoemaker,New York,5
+Liverpool,Aquitania,Second,Eric, Arteaga,20,04-16-1912,Male,Black,Baker,New York,3
+Southampton,Britannic,Second,Allan, Grimm,61,04-19-1912,Male,Hispanic,Carpenter,New York,1
+Liverpool,Lusitania,First,Carlito, John,42,04-15-1912,Male,Hispanic,Blacksmith,New York,1
+Liverpool,Carpathia,Third,Juan, Lopez,17,04-17-1912,Male,Hispanic,Carpenter,New York,3
+Liverpool,Mauretania,First,Favio, Chavez,15,04-15-1912,Female,Asian,Miner,New York,5
+Southampton,Titanic,Third,Amanda, Thinn,11,04-15-1912,Female,White,Baker,New York,3
+Liverpool,Baltic,First,David, Mutch,8,04-16-1912,Male,Hispanic,Miner,New York,3
+Liverpool,Aquitania,First,Isaac, Flores,2,04-19-1912,Female,Hispanic,Miner,New York,2
+Liverpool,Carpathia,Third,Destinee, Thomas,8,04-18-1912,Male,Hispanic,Shoemaker,New York,2
+Liverpool,Mauretania,Second,De Jon, Kovinchick,4,04-17-1912,Male,Black,Shoemaker,Cherbourg,2
+Liverpool,Adriatic,First,Nesselle, Tesfamariam,3,04-18-1912,Male,Other,Miner,New York,5
+Liverpool,Aquitania,Third,Shaheer, Al-mussa,2,04-20-1912,Female,White,Mason,New York,5
+Southampton,Olympic,Third,Jacob, Gilmore,47,04-16-1912,Male,Other,Mason,New York,4
+Liverpool,Aquitania,Second,Naadiya, El-habeeb,25,04-15-1912,Male,White,None,New York,4
+Liverpool,Aquitania,Second,J, Campton,70,04-15-1912,Female,Black,Baker,New York,1
+Liverpool,Mauretania,Third,Zubaida, Al-salehi,1,04-16-1912,Male,White,Merchant,New York,5
+Southampton,Olympic,Third,Ahmose, Smith,67,04-17-1912,Female,Hispanic,Merchant,New York,4
+Southampton,Olympic,First,Michael, Doering,2,04-19-1912,Female,Asian,Farmer,New York,2
+Southampton,Britannic,Second,Jumaima, Al-molla,nineteen-six,04-19-1912,Female,Black,Shoemaker,New York,4
+Southampton,Britannic,First,Debra, Day,2,04-17-1912,Male,Black,Merchant,Cherbourg,1
+Liverpool,Aquitania,First,Dominic, Babatunde,2,04-16-1912,Female,Asian,Weaver,New York,3
+Liverpool,Celtic,Third,Tufail, Al-asad,100,04-17-1912,Male,Other,Weaver,New York,4
+Southampton,Titanic,First,Sooraj, Daniels,42,04-15-1912,Male,White,Baker,New York,1
+Southampton,Titanic,Second,Nicholas, Castillo,6,04-19-1912,Male,Black,Tailor,New York,4
+Liverpool,Adriatic,Second,Hunter, York,47,04-15-1912,Male,White,Miner,New York,4
+Southampton,Titanic,Third,Nicole, Woo,31,04-16-1912,Female,Black,Weaver,New York,5
+Southampton,Titanic,Second,Austin, Delger,7,04-15-1912,Female,Black,Baker,New York,3
+Liverpool,Aquitania,Third,Eric, Quezada,37,04-19-1912,Female,Asian,Merchant,New York,5
+Liverpool,Carpathia,Third,Courtney, Doerr,41,04-17-1912,Male,Hispanic,Merchant,New York,4
+Liverpool,Lusitania,Second,William, Miller,5,04-19-1912,Male,Other,Carpenter,New York,1
+Liverpool,Mauretania,Third,Liana, Mcgowan,55,04-18-1912,Female,Hispanic,Carpenter,New York,1
+Liverpool,Lusitania,Third,Jamal, Washington,4,04-18-1912,Male,Black,Merchant,New York,1
+Liverpool,Adriatic,Second,Ana, Vargas,10,04-17-1912,Female,White,Carpenter,Cherbourg,4
+Liverpool,Lusitania,Second,Cassandra, Spady,19,04-18-1912,Female,Other,Tailor,New York,2
+Liverpool,Mauretania,Third,David, Eckstrom,57,04-20-1912,Male,Black,None,New York,2
+Liverpool,Baltic,Third,Niavis, Waite,98,04-17-1912,Male,Black,Mason,New York,3
+Liverpool,Mauretania,Second,Raymond, Crowghost,100,04-18-1912,Male,Black,Miner,New York,3
+Southampton,Britannic,First,Silvia, Delacruz-naranjo,40,04-15-1912,Male,Other,Weaver,New York,4
+Liverpool,Aquitania,First,Christian, Etchells,56,04-15-1912,Male,White,Baker,New York,2
+Liverpool,Adriatic,Third,Michael, Nguyen,1,04-18-1912,Male,Black,Shoemaker,New York,1
+Liverpool,Lusitania,Third,Destiny, Ruiz-esparza,3,04-20-1912,Male,Other,Baker,New York,1
+Southampton,Britannic,First,Ashley, Lords,66,04-16-1912,Male,Asian,Blacksmith,New York,3
+Liverpool,Adriatic,Second,Gregory, Frias Chavez,26,04-16-1912,Male,Hispanic,Tailor,New York,2
+Liverpool,Lusitania,Second,Hershel, Kabotie,59,04-20-1912,Female,Asian,Farmer,Cherbourg,3
+Southampton,Olympic,Third,Robinson, Xatkoun,1,04-17-1912,Male,Asian,Shoemaker,New York,2
+Liverpool,Adriatic,Second,Jasmine, Estrada,89,04-15-1912,Male,Black,None,New York,4
+Liverpool,Aquitania,Third,Sean, Phu,16,04-17-1912,Female,Black,Shoemaker,New York,5
+Liverpool,Lusitania,First,Kendra, Hill,18,04-19-1912,Male,Other,Miner,New York,5
+Southampton,Britannic,Second,Elisabeth, Thornton,7,04-20-1912,Female,White,None,New York,4
+Liverpool,Aquitania,Second,Waajida, El-salehi,53,04-15-1912,Male,Hispanic,Tailor,New York,5
+Southampton,Titanic,First,Bryon, Ortiz,69,04-20-1912,Female,Asian,Carpenter,New York,1
+Liverpool,Lusitania,Third,Nathaniel, Cook,4,04-19-1912,Female,Other,Miner,New York,2
+Southampton,Britannic,Second,Hannah, Upadhyay,41,04-19-1912,Female,Hispanic,Miner,New York,2
+Southampton,Titanic,Third,Ian, Roberts,90,04-17-1912,Male,Asian,Shoemaker,New York,2
+Liverpool,Lusitania,Third,Sadeeqa, El-shaban,13,04-18-1912,Male,White,Carpenter,New York,1
+Liverpool,Adriatic,First,Todd, Herrera,25,04-19-1912,Male,Asian,Farmer,New York,3
+Liverpool,Celtic,Second,Waseem, Al-yasin,4,04-18-1912,Female,Asian,Weaver,New York,3
+Southampton,Titanic,Second,Wesley, Christensen,15,04-18-1912,Female,White,Merchant,New York,5
+Southampton,Titanic,First,Ramzi, Al-iman,11,04-15-1912,Male,White,Blacksmith,New York,1
+Liverpool,Adriatic,First,Jonathan, Blackmore,4,04-18-1912,Male,Black,Miner,New York,4
+Southampton,Olympic,Second,Aadil, El-abbasi,13,04-18-1912,Female,Asian,Farmer,New York,2
+Southampton,Olympic,Third,Wen Hao, Brooks,2,04-20-1912,Male,Hispanic,Blacksmith,New York,2
+Southampton,Olympic,Third,Phanesha, Marlow,0,04-17-1912,Female,Hispanic,Blacksmith,New York,5
+Southampton,Titanic,Third,Ty'lia, Harris,65,04-19-1912,Female,Black,None,New York,2
+Southampton,Olympic,Second,Guadalupe, Juarez,87,04-15-1912,Female,White,Baker,New York,3
+Southampton,Britannic,Second,Gabrielle, Mena,20,04-20-1912,Male,White,Shoemaker,New York,3
+Liverpool,Baltic,Third,Mayra, Suazo,43,04-15-1912,Male,Black,Merchant,New York,5
+Southampton,Olympic,First,Jamal, Wright-jackson,76,04-18-1912,Female,Other,Tailor,New York,4
+Liverpool,Lusitania,Third,Julia, Holiday,0,04-15-1912,Female,Black,Shoemaker,New York,5
+Liverpool,Adriatic,First,Joseph, Baig,2,04-17-1912,Male,Other,Merchant,New York,3
+Southampton,Titanic,Third,Robert, Hauptman,8,04-16-1912,Female,Black,Tailor,New York,4
+Southampton,Titanic,Third,Tiffany, Yadav,NA-,04-18-1912,Male,Hispanic,Tailor,New York,4
+Liverpool,Baltic,Third,Leonardo, Vazquez-luevano,56,04-19-1912,Female,Other,Miner,New York,3
+Liverpool,Aquitania,Second,Naomi, Olivares,nineteen-two,04-20-1912,Male,Asian,Carpenter,New York,4
+Liverpool,Lusitania,First,Dede, Hoover,6,04-19-1912,Male,Hispanic,Shoemaker,New York,3
+Liverpool,Mauretania,First,Larry, Galassini,42,04-19-1912,Female,Black,Shoemaker,New York,1
+Liverpool,Aquitania,Third,Cheyenne, Mercado,86,04-19-1912,Male,Hispanic,Mason,New York,2
+Southampton,Olympic,First,Austin, Hughes,19,04-18-1912,Female,Hispanic,Farmer,New York,1
+Liverpool,Baltic,Second,Stephen, Philpot,45,04-19-1912,Male,Hispanic,Baker,New York,3
+Southampton,Olympic,Second,Dallas, Ray,63,04-18-1912,Female,Other,Shoemaker,New York,2
+Southampton,Olympic,Third,Kwame, Anderson,52,04-18-1912,Female,Black,Carpenter,New York,1
+Liverpool,Baltic,Second,Sequoya, Brussel,33,04-16-1912,Male,Hispanic,None,New York,3
+Liverpool,Lusitania,First,Donavahn, Jung,0,04-18-1912,Male,Black,Blacksmith,New York,5
+Liverpool,Celtic,First,Sha-rheya, Grant,51,04-18-1912,Female,White,Merchant,New York,3
+Liverpool,Lusitania,Second,Richard, Mitchell,37,04-17-1912,Female,White,Baker,Cherbourg,3
+Southampton,Titanic,Third,Raymond, Wilson,13,04-15-1912,Female,Other,Blacksmith,Cherbourg,2
+Southampton,Olympic,First,Jason, Martin,54,04-19-1912,Male,White,Mason,New York,5
+Liverpool,Lusitania,First,Kimberly, Flores Lopez,34,04-18-1912,Female,Black,Tailor,New York,4
+Liverpool,Carpathia,First,Thanh, Niedringhaus,80,04-15-1912,Female,Other,Mason,New York,2
+Liverpool,Celtic,First,Isaac, Campbell,26,04-15-1912,Male,Asian,Farmer,New York,2
+Southampton,Titanic,First,Andrea, Minter,35,04-16-1912,Female,White,Miner,Cherbourg,1
+Liverpool,Celtic,First,Brittany, Patterson,1,04-18-1912,Female,Hispanic,Miner,New York,2
+Southampton,Britannic,Third,Michelle, Dillingham,74,04-16-1912,Male,Other,Shoemaker,New York,5
+Liverpool,Celtic,First,Jocelyne, Prince,2,04-19-1912,Male,White,Carpenter,New York,4
+Liverpool,Aquitania,Second,Donald, Tolbertson,62,04-19-1912,Female,Other,Shoemaker,New York,2
+Liverpool,Celtic,Third,Brandon, Altman,nineteen-five,04-20-1912,Female,Other,Farmer,New York,2
+Liverpool,Lusitania,Third,Chelsie, Sparks Ii,77,04-20-1912,Female,Black,Tailor,New York,1
+Liverpool,Aquitania,Third,Faseeha, Al-reza,44,04-16-1912,Female,Hispanic,Baker,New York,3
+Southampton,Britannic,Second,Maaiz, Al-saleem,42,04-15-1912,Female,Asian,None,New York,1
+Liverpool,Mauretania,Second,Terryll, Ola,NA-,04-18-1912,Female,Black,Carpenter,New York,3
+Liverpool,Lusitania,First,Jasmine, Lam,13,04-19-1912,Male,White,Baker,New York,1
+Liverpool,Baltic,Third,Alejandro, Ouellette,55,04-17-1912,Female,White,Tailor,New York,4
+Southampton,Titanic,Second,Kaaryn, Sabin,2,04-20-1912,Female,Hispanic,Merchant,New York,2
+Liverpool,Lusitania,First,Hadbaaa, Al-yusuf,3,04-17-1912,Female,Black,Weaver,New York,1
+Southampton,Britannic,First,Philip, Theune,7,04-16-1912,Female,Asian,Farmer,New York,1
+Southampton,Britannic,Third,Rebecca, Mader,96,04-16-1912,Male,Black,Shoemaker,New York,2
+Liverpool,Adriatic,Second,Eugene, Pham,14,04-15-1912,Female,Black,None,New York,1
+Liverpool,Lusitania,Second,Kaliyah, Prince,7,04-18-1912,Female,White,None,Cherbourg,4
+Southampton,Britannic,First,Sophie, Gallogly,2,04-20-1912,Female,Black,Merchant,New York,3
+Liverpool,Lusitania,First,Ian, Espinoza,66,04-19-1912,Female,Asian,Miner,New York,4
+Southampton,Britannic,Third,Tyrel, Hauptli,7,04-16-1912,Male,White,None,New York,1
+Southampton,Britannic,Third,Allen, Herrera,7,04-15-1912,Male,Asian,Miner,New York,5
+Southampton,Titanic,First,Taamir, El-gad,44,04-18-1912,Male,Asian,Blacksmith,New York,5
+Liverpool,Baltic,Second,Malik, Crowell,10,04-17-1912,Male,Other,Mason,New York,4
+Liverpool,Celtic,First,Kimiko, Rachel,nineteen-zero,04-17-1912,Female,Hispanic,Weaver,New York,3
+Liverpool,Baltic,Second,Marinna, Lindgren,0,04-18-1912,Female,Black,Tailor,New York,2
+Liverpool,Aquitania,First,Alexsiss, Lincoln,4,04-18-1912,Male,White,Mason,New York,3
+Liverpool,Celtic,Third,Rockelle, Bofill,35,04-16-1912,Male,White,Blacksmith,Cherbourg,2
+Southampton,Titanic,Third,Nosakhare, Phillips,27,04-15-1912,Male,Black,None,New York,4
+Liverpool,Carpathia,Second,Raihaana, Al-hashim,4,04-19-1912,Male,Other,Carpenter,New York,4
+Liverpool,Mauretania,Second,Rebekah, Hill,53,04-17-1912,Female,Asian,Weaver,New York,3
+Southampton,Britannic,Third,Hsiang, Do,85,04-20-1912,Male,Hispanic,Baker,New York,2
+Liverpool,Baltic,First,Kristina, Gutierrez,4,04-17-1912,Male,Other,Carpenter,New York,1
+Liverpool,Carpathia,Second,Clint, Carroll,nineteen-six,04-16-1912,Male,Hispanic,Weaver,New York,1
+Liverpool,Celtic,Second,Aseel, El-mahfouz,88,04-19-1912,Male,Other,Miner,Cherbourg,5
+Liverpool,Aquitania,Second,Jacob, Mohabes,74,04-20-1912,Female,Black,Blacksmith,New York,1
+Liverpool,Celtic,First,Khoa, Tsumura,4,04-19-1912,Female,Black,None,New York,5
+Southampton,Britannic,Second,Enerel, Love,76,04-16-1912,Female,Black,Baker,New York,5
+Southampton,Britannic,First,Virrilyn, Mameda,99,04-19-1912,Male,White,Miner,New York,5
+Liverpool,Adriatic,Third,Cade, Monroe,6,04-15-1912,Male,Other,Carpenter,New York,5
+Southampton,Olympic,Third,Dionte, Henderson,1,04-19-1912,Female,Asian,Tailor,New York,2
+Southampton,Britannic,Third,Tanya, Hernandez,8,04-16-1912,Male,Black,Shoemaker,New York,2
+Liverpool,Lusitania,Second,Katherine, Ascher,49,04-18-1912,Female,Hispanic,Farmer,New York,3
+Southampton,Olympic,Second,Christian, Nielson,75,04-18-1912,Male,Asian,Merchant,New York,5
+Southampton,Britannic,Third,Anay, Dye,21,04-20-1912,Female,Other,Miner,New York,4
+Liverpool,Baltic,Third,Miranda, Cipriani,41,04-17-1912,Male,Other,Baker,New York,5
+Liverpool,Carpathia,First,Kerrin, Borum,41,04-19-1912,Female,Other,Merchant,Cherbourg,5
+Liverpool,Carpathia,Second,Ahmad, Cunningham,76,04-15-1912,Female,Hispanic,Tailor,New York,3
+Southampton,Titanic,Second,Thuanh, Cheung,12,04-18-1912,Female,Black,Miner,New York,5
+Liverpool,Lusitania,Third,Ashley, Grado,96,04-18-1912,Female,Asian,Weaver,Cherbourg,2
+Liverpool,Aquitania,Second,Erik, Wedemeyer,35,04-20-1912,Male,Other,Blacksmith,New York,3
+Liverpool,Adriatic,First,Nadeem, Al-salah,66,04-20-1912,Female,Other,Weaver,Cherbourg,5
+Liverpool,Lusitania,Third,Courtni, Perez,6,04-19-1912,Male,Hispanic,Farmer,New York,4
+Liverpool,Adriatic,Second,Jerrica, Faust,2,04-18-1912,Female,Other,Mason,New York,3
+Liverpool,Carpathia,First,Alani, Perez Ramirez,0,04-16-1912,Female,Black,Blacksmith,Cherbourg,1
+Liverpool,Aquitania,First,Saqr, El-ahsan,4,04-20-1912,Male,Other,Blacksmith,Cherbourg,3
+Liverpool,Lusitania,Second,Gabrielle, Parker,3,04-16-1912,Male,Other,Carpenter,New York,2
+Liverpool,Adriatic,Second,Brandon, Neuroth,92,04-17-1912,Male,Black,Miner,New York,5
+Liverpool,Adriatic,First,Amanda, Mcphail,50,04-17-1912,Female,Other,Baker,New York,4
+Liverpool,Carpathia,First,Garth, Martin,49,04-19-1912,Female,White,Blacksmith,Cherbourg,1
+Liverpool,Celtic,Third,Tyler, Kim,13,04-16-1912,Female,Other,Weaver,New York,2
+Liverpool,Lusitania,Third,Payton, Dinhvu,61,04-17-1912,Male,Black,Baker,New York,5
+Liverpool,Adriatic,First,Jeelaan, El-samara,76,04-16-1912,Male,Other,Carpenter,New York,3
+Liverpool,Lusitania,Second,Nikki, Henderson,2,04-17-1912,Female,Other,Mason,New York,3
+Southampton,Britannic,Third,Collin, Scott,64,04-17-1912,Female,Asian,Merchant,New York,4
+Liverpool,Mauretania,Second,Megean, Snow,71,04-15-1912,Male,White,Weaver,New York,3
+Southampton,Titanic,Third,Tiffany, Autterson,21,04-15-1912,Male,Black,Merchant,New York,2
+Liverpool,Baltic,First,Victoria, Talent,11,04-15-1912,Female,Asian,Miner,New York,4
+Liverpool,Aquitania,Second,Yvonne, Tran,5,04-17-1912,Male,Black,Tailor,New York,4
+Liverpool,Baltic,Third,Abbigail, Gonzalez Mejia,NA-,04-15-1912,Male,White,Weaver,New York,5
+Southampton,Olympic,Third,Hannah, Duncanson,6,04-16-1912,Female,Other,None,New York,4
+Liverpool,Adriatic,Second,Mina, Thompson,7,04-17-1912,Male,Asian,Shoemaker,New York,1
+Southampton,Britannic,Third,Morgan, Scott,16,04-18-1912,Male,Hispanic,Mason,Cherbourg,5
+Liverpool,Celtic,Second,Elijah, Franklin,9,04-15-1912,Male,Black,Blacksmith,New York,4
+Southampton,Titanic,Third,Nia, Vaughn,8,04-20-1912,Male,Other,Miner,New York,5
+Liverpool,Lusitania,Second,La Shun, Sellers,53,04-19-1912,Female,Hispanic,Merchant,New York,2
+Liverpool,Lusitania,First,Jordan, Camacho,52,04-19-1912,Male,Black,Shoemaker,New York,1
+Liverpool,Mauretania,First,Michael, Sun,84,04-15-1912,Female,Asian,Blacksmith,Cherbourg,3
+Liverpool,Baltic,Third,Naafoora, El-shehata,55,04-18-1912,Female,Asian,Shoemaker,New York,5
+Liverpool,Celtic,Third,Eric, Yang,91,04-20-1912,Female,Black,Tailor,New York,4
+Liverpool,Lusitania,Second,Kaytlyn, Slusarczyk,38,04-16-1912,Male,Hispanic,Farmer,New York,5
+Liverpool,Mauretania,Second,Jazmin, Garay Flores,1,04-17-1912,Male,Other,Carpenter,New York,5
+Liverpool,Celtic,Second,Karen, Steinacher,27,04-16-1912,Male,Other,Blacksmith,New York,2
+Liverpool,Lusitania,Second,Dominic, Martinez,27,04-19-1912,Female,Asian,Merchant,Cherbourg,4
+Liverpool,Mauretania,Second,Pa Ying, Covington,75,04-20-1912,Female,Black,Tailor,New York,4
+Southampton,Olympic,First,Nicklas, Hedrick,51,04-19-1912,Female,Other,Miner,New York,4
+Liverpool,Adriatic,First,Thaylor, Powell,89,04-20-1912,Male,Asian,Weaver,New York,4
+Liverpool,Adriatic,Third,Jessica, Martin,45,04-19-1912,Female,Black,Blacksmith,New York,2
+Southampton,Titanic,Third,Theresa, Tran,7,04-19-1912,Male,Hispanic,Farmer,New York,1
+Liverpool,Celtic,Second,Daniel, Macon-robinson,98,04-16-1912,Female,White,Weaver,New York,4
+Liverpool,Baltic,Second,Kimberly, Ottinger,90,04-19-1912,Female,Black,Carpenter,New York,2
+Liverpool,Lusitania,Third,Santiago, Lozoya Rangel,40,04-18-1912,Female,White,Shoemaker,New York,2
+Southampton,Olympic,First,Riley, Branson,13,04-20-1912,Female,Other,Carpenter,New York,2
+Liverpool,Carpathia,Third,Lucas, Shumock,96,04-15-1912,Female,Black,Shoemaker,New York,4
+Southampton,Britannic,Second,Mariah, Duenas,10,04-19-1912,Female,Other,Carpenter,New York,2
+Liverpool,Mauretania,First,Haamida, El-attar,1,04-17-1912,Female,Asian,None,New York,1
+Liverpool,Carpathia,Third,De Ondre, Stevenson,2,04-18-1912,Male,Other,Merchant,New York,1
+Liverpool,Aquitania,Second,Jonathan, Nguyen,16,04-17-1912,Female,Other,Shoemaker,New York,4
+Liverpool,Mauretania,Second,Arielle, Toney,42,04-20-1912,Female,Other,Carpenter,New York,1
+Liverpool,Lusitania,Third,Mangei, Isabelle,18,04-19-1912,Female,Black,Blacksmith,New York,3
+Southampton,Britannic,First,Abdur Raheem, Al-radwan,18,04-20-1912,Female,Asian,Baker,New York,1
+Southampton,Britannic,Third,Christian, Johnston,7,04-18-1912,Female,Other,Merchant,New York,4
+Southampton,Olympic,First,Jordan, Colson,78,04-16-1912,Male,Hispanic,Tailor,New York,4
+Southampton,Titanic,Second,Sara, Wong,13,04-17-1912,Female,Black,Shoemaker,New York,3
+Southampton,Titanic,First,Christopher, Sanchez,83,04-20-1912,Male,Black,Miner,New York,5
+Liverpool,Baltic,First,Aatifa, Al-arshad,34,04-15-1912,Female,Asian,Baker,New York,2
+Liverpool,Adriatic,First,Krystal, Ramirez,31,04-19-1912,Female,Asian,Farmer,Cherbourg,4
+Southampton,Britannic,First,Linh, Hathaway,3,04-20-1912,Female,Other,Weaver,Cherbourg,1
+Liverpool,Baltic,First,Keisha, Hassan,9,04-17-1912,Female,White,None,New York,4
+Liverpool,Carpathia,Second,Atsila, Berg,42,04-17-1912,Male,Asian,Baker,New York,3
+Liverpool,Aquitania,Third,Casey, Kebba,75,04-20-1912,Male,Other,Blacksmith,New York,3
+Liverpool,Lusitania,Second,Sheridan, Hamilton,97,04-16-1912,Female,Hispanic,Carpenter,New York,4
+Liverpool,Mauretania,Second,Carl, Jarman,48,04-17-1912,Male,White,Shoemaker,New York,5
+Liverpool,Baltic,Second,Jacob, Liao,NA-,04-19-1912,Female,White,Merchant,New York,3
+Southampton,Titanic,First,Sabrina, Lopez,5,04-18-1912,Female,Hispanic,Blacksmith,New York,1
+Southampton,Titanic,First,Boan, Masterson,79,04-15-1912,Female,Other,Miner,Cherbourg,2
+Liverpool,Carpathia,Third,Kadijah, Cummings,72,04-19-1912,Female,White,Weaver,New York,5
+Liverpool,Lusitania,Second,Dina, Chavez,27,04-16-1912,Female,White,Weaver,Cherbourg,3
+Liverpool,Lusitania,Third,Cody, Solorzano,40,04-18-1912,Male,Asian,Mason,New York,2
+Liverpool,Baltic,Third,Abdur Raheem, El-basa,94,04-16-1912,Female,Asian,Shoemaker,New York,1
+Liverpool,Mauretania,Second,Brittany, Turner,93,04-16-1912,Female,Other,Merchant,Cherbourg,5
+Liverpool,Mauretania,First,Kendra, Morrow,48,04-20-1912,Male,White,Farmer,New York,4
+Southampton,Titanic,First,Naaifa, El-hussain,77,04-17-1912,Female,Black,Merchant,New York,5
+Liverpool,Lusitania,Second,Esar, Ellis,36,04-20-1912,Female,Asian,Baker,Cherbourg,5
+Liverpool,Aquitania,Second,Jordan, Young,18,04-20-1912,Male,Asian,Tailor,New York,4
+Liverpool,Baltic,Third,Suthdara, Marlow,66,04-17-1912,Female,Asian,Blacksmith,New York,3
+Liverpool,Celtic,First,Krystal, Redmond,30,04-19-1912,Male,Black,Shoemaker,New York,3
+Liverpool,Aquitania,Second,Ahlaam, El-salem,25,04-19-1912,Male,Black,Blacksmith,New York,1
+Liverpool,Mauretania,First,A'lexus, Crabtree,40,04-17-1912,Male,Hispanic,Blacksmith,New York,5
+Liverpool,Lusitania,Second,Travis, Pratt,1,04-15-1912,Female,Hispanic,Mason,New York,3
+Liverpool,Celtic,Third,Jada, Shafi,3,04-17-1912,Female,Hispanic,Miner,New York,4
+Liverpool,Aquitania,First,Chelsea, Plazola,97,04-17-1912,Female,Other,Blacksmith,Cherbourg,4
+Liverpool,Mauretania,Third,Marquise, Davison,77,04-15-1912,Male,White,Mason,New York,3
+Liverpool,Celtic,Second,Michael, Scott,4,04-15-1912,Male,Asian,Miner,New York,5
+Liverpool,Baltic,Second,Hernan, Molina,4,04-20-1912,Male,Other,Merchant,New York,3
+Liverpool,Baltic,Third,Cody, Hunsaker,99,04-17-1912,Male,Asian,Weaver,New York,2
+Southampton,Britannic,First,Jordyn, Imam,97,04-20-1912,Male,Asian,Baker,New York,1
+Southampton,Britannic,Second,Kamaaluddeen, Al-bari,41,04-17-1912,Female,Other,Weaver,New York,4
+Liverpool,Adriatic,First,Alyssa, Washington,88,04-15-1912,Male,Black,Farmer,New York,4
+Southampton,Olympic,Second,Joseph, Jaramillo,45,04-20-1912,Male,Other,Tailor,New York,4
+Liverpool,Mauretania,Second,Muhammad, Al-farooq,4,04-19-1912,Male,Hispanic,Farmer,New York,3
+Liverpool,Lusitania,Third,Lorena, Valdez,60,04-16-1912,Male,Asian,Miner,Cherbourg,1
+Liverpool,Mauretania,Second,Olivia, Marchena,1,04-18-1912,Male,Other,Shoemaker,New York,1
+Liverpool,Carpathia,Third,Tori, Nichols,67,04-18-1912,Male,Black,None,New York,2
+Liverpool,Carpathia,Third,Alundra, Thao,6,04-17-1912,Female,Hispanic,Blacksmith,New York,5
+Southampton,Olympic,Second,Sadeeqa, El-mohammed,52,04-20-1912,Male,Hispanic,Carpenter,New York,2
+Southampton,Titanic,Third,Brandon, Chen,83,04-17-1912,Female,Other,Blacksmith,New York,3
+Liverpool,Baltic,First,Lillieanna, Garcia,37,04-15-1912,Male,Black,Merchant,New York,4
+Liverpool,Lusitania,First,Hannah, Sanders,16,04-19-1912,Male,White,Miner,New York,3
+Liverpool,Baltic,Second,Atiya, Davis,55,04-19-1912,Male,White,Tailor,New York,3
+Liverpool,Celtic,Second,Omar, Del Mazo Apablaza,3,04-20-1912,Male,Other,None,New York,3
+Liverpool,Carpathia,Third,Alyssia, Thomas,11,04-19-1912,Male,Asian,Farmer,New York,5
+Southampton,Titanic,Third,Jessica, Kennedy,7,04-19-1912,Female,White,Blacksmith,New York,1
+Liverpool,Carpathia,Third,Juan, Sanchez,9,04-17-1912,Male,White,Merchant,New York,2
+Southampton,Titanic,Second,Aiyana, Akina,53,04-19-1912,Male,Black,Carpenter,New York,1
+Liverpool,Mauretania,Second,Xavier, Ramirez,9,04-18-1912,Male,Other,Shoemaker,New York,4
+Liverpool,Adriatic,First,Uriah, Keuhne,50,04-15-1912,Female,White,Tailor,New York,2
+Liverpool,Carpathia,Second,Raven, Silas,4,04-16-1912,Male,Asian,Carpenter,New York,5
+Liverpool,Baltic,Second,Parth, De Werd,NA-,04-18-1912,Female,Hispanic,Tailor,New York,1
+Liverpool,Adriatic,First,Nicholas, Casillas,20,04-16-1912,Female,Asian,Carpenter,New York,5
+Liverpool,Celtic,Second,Margarita, Begaye,2,04-19-1912,Male,Asian,None,New York,5
+Liverpool,Aquitania,Second,Patrice, Miller,7,04-17-1912,Male,Hispanic,Miner,Cherbourg,3
+Southampton,Britannic,Third,Destiny, Lorenz,55,04-18-1912,Male,White,Baker,New York,5
+Liverpool,Carpathia,First,Quincy, Brown,72,04-16-1912,Female,Black,Weaver,New York,2
+Liverpool,Aquitania,First,Anthony, Lemus,96,04-18-1912,Female,Asian,Merchant,New York,5
+Liverpool,Adriatic,First,Celso, Laulunen,NA-,04-20-1912,Female,White,Baker,New York,2
+Liverpool,Lusitania,Second,Billy, Magno,nineteen-one,04-19-1912,Female,Hispanic,Carpenter,Cherbourg,4
+Liverpool,Celtic,Third,Patrick, Gross,15,04-16-1912,Female,Black,Blacksmith,New York,2
+Southampton,Britannic,Second,Tharwa, El-huq,32,04-20-1912,Female,Hispanic,Blacksmith,New York,1
+Liverpool,Celtic,Second,Alexa, Kazee,35,04-20-1912,Male,Black,Baker,New York,1
+Liverpool,Aquitania,Second,Jacob, Koenig,1,04-18-1912,Male,Asian,Blacksmith,New York,2
+Liverpool,Aquitania,First,Abeer, El-hariri,85,04-18-1912,Female,Hispanic,Tailor,New York,4
+Southampton,Britannic,Second,Glenda, Cartwright,8,04-17-1912,Female,White,Mason,New York,3
+Liverpool,Celtic,First,Terrelle, Daniels,64,04-20-1912,Female,Black,Shoemaker,New York,3
+Liverpool,Celtic,Third,Alexandra, Morser,57,04-16-1912,Male,Black,Shoemaker,New York,4
+Liverpool,Aquitania,Third,Jamie, Hohn,70,04-18-1912,Female,White,None,New York,1
+Southampton,Titanic,Second,Evan, Robinson,74,04-20-1912,Female,Hispanic,Merchant,Cherbourg,1
+Liverpool,Carpathia,First,Erick, Cordova,40,04-17-1912,Male,Hispanic,Miner,New York,5
+Liverpool,Mauretania,Third,Kelsey, Grimes,54,04-20-1912,Female,Hispanic,Miner,New York,1
+Southampton,Britannic,Second,Jeremy, Johnson,33,04-15-1912,Female,Hispanic,Tailor,New York,1
+Liverpool,Adriatic,Second,Conner, Kingery,68,04-19-1912,Female,Asian,Carpenter,New York,3
+Southampton,Titanic,Third,Xandra, Reeves,2,04-15-1912,Male,Asian,Carpenter,New York,1
+Liverpool,Aquitania,First,Treymond, Coney,7,04-18-1912,Female,Black,Miner,Cherbourg,1
+Liverpool,Baltic,Second,Rawda, El-nazir,93,04-17-1912,Female,Black,Merchant,New York,3
+Southampton,Titanic,Second,Alejandra, Cortes,4,04-18-1912,Male,Hispanic,Merchant,New York,5
+Southampton,Olympic,First,David, Sidberry-white,26,04-18-1912,Female,Black,Farmer,New York,5
+Southampton,Olympic,Third,Wesley, Carrigan,62,04-16-1912,Female,Black,Miner,New York,5
+Liverpool,Carpathia,Third,Dominic, Martinez,NA-,04-20-1912,Female,White,None,New York,1
+Liverpool,Lusitania,First,Dhaafir, Al-fares,nineteen-five,04-18-1912,Male,Asian,Baker,New York,2
+Liverpool,Mauretania,Third,Krystal, Davis,55,04-17-1912,Male,Hispanic,Blacksmith,New York,4
+Southampton,Titanic,First,Emilie, Illian,20,04-17-1912,Male,Other,Farmer,New York,4
+Liverpool,Aquitania,Third,Elise, Loza,39,04-19-1912,Male,Hispanic,Weaver,New York,1
+Liverpool,Carpathia,Third,Baaqir, El-abdulla,69,04-17-1912,Male,Asian,Shoemaker,New York,1
+Liverpool,Adriatic,Third,Kathryn, Lee,9,04-15-1912,Male,Hispanic,None,New York,5
+Southampton,Titanic,Second,Allison, Felker,74,04-15-1912,Male,White,Mason,New York,4
+Liverpool,Carpathia,Second,Satya, Bui,90,04-18-1912,Male,Hispanic,Blacksmith,New York,2
+Liverpool,Aquitania,First,Eloyita, Judkins,4,04-20-1912,Male,Asian,Mason,New York,5
+Southampton,Britannic,Third,David, Mark,22,04-19-1912,Female,Black,Shoemaker,New York,5
+Liverpool,Adriatic,Second,Leanna, Clement,nineteen-seven,04-16-1912,Female,Black,Shoemaker,New York,2
+Liverpool,Baltic,Third,Josue, Barela,3,04-19-1912,Male,Asian,Farmer,New York,2
+Southampton,Britannic,Third,Koy, Jacobs,17,04-15-1912,Female,Asian,Shoemaker,New York,1
+Liverpool,Baltic,Third,Mudrika, El-ameen,13,04-20-1912,Male,Asian,Shoemaker,New York,4
+Liverpool,Adriatic,Third,Waseem, El-rasheed,nineteen-one,04-15-1912,Female,Asian,Weaver,New York,4
+Liverpool,Baltic,Second,Kidist, Clark,1,04-19-1912,Male,Asian,Farmer,New York,3
+Southampton,Britannic,Second,Ashley, Basurto,78,04-15-1912,Female,Other,Carpenter,New York,3
+Liverpool,Aquitania,Second,Jiali, Truong,0,04-19-1912,Male,White,None,New York,2
+Liverpool,Carpathia,First,Jordyn Andrew, Valdo,9,04-18-1912,Male,Other,Miner,New York,2
+Liverpool,Lusitania,Second,Vignesh, Huynh,8,04-16-1912,Female,Black,Baker,New York,2
+Southampton,Britannic,First,Alisa, Nguyen,17,04-18-1912,Male,White,Weaver,New York,4
+Southampton,Titanic,Second,Margarita, Levshakoff Jr,28,04-20-1912,Male,Black,Baker,New York,4
+Liverpool,Mauretania,Third,Shaheer, El-jabbour,NA-,04-15-1912,Female,Black,None,New York,3
+Liverpool,Carpathia,Second,Jacqueline, Ocana-gonzales,32,04-16-1912,Male,Hispanic,Baker,New York,3
+Liverpool,Aquitania,First,Annika, Bishop,9,04-17-1912,Male,Asian,Tailor,New York,2
+Liverpool,Aquitania,First,Sequoya, Kacprowicz,3,04-19-1912,Male,White,Tailor,New York,2
+Southampton,Olympic,Third,Sandora, Dalton,43,04-16-1912,Male,Other,Baker,New York,3
+Liverpool,Lusitania,First,Sauvnhia, Zhang,NA-,04-20-1912,Male,Hispanic,Weaver,Cherbourg,3
+Southampton,Britannic,First,Raihaan, El-aman,2,04-19-1912,Male,White,Carpenter,Cherbourg,2
+Southampton,Titanic,Second,Shawn, Ortiz,35,04-17-1912,Female,White,Weaver,New York,4
+Liverpool,Mauretania,Third,Jacob, Hernandez,87,04-16-1912,Male,Black,Carpenter,New York,3
+Liverpool,Carpathia,Third,Amanda, Ugarte-schirrmeister,4,04-20-1912,Male,Other,Blacksmith,New York,3
+Liverpool,Baltic,Third,Dani, Enos,71,04-15-1912,Female,Asian,Mason,New York,3
+Liverpool,Lusitania,First,Joel, Cordova,83,04-15-1912,Male,Hispanic,Mason,New York,4
+Southampton,Titanic,Second,Shanay, Silverston,31,04-15-1912,Male,White,Farmer,New York,1
+Southampton,Titanic,Second,Joseph, Lefholz,42,04-20-1912,Female,Other,Shoemaker,New York,2
+Liverpool,Adriatic,First,Tammassha, Martinez,3,04-17-1912,Female,Other,Merchant,New York,1
+Liverpool,Aquitania,Second,Nhi, Vu,nineteen-five,04-15-1912,Female,Black,Blacksmith,New York,2
+Liverpool,Lusitania,First,Deeplata, Yang,23,04-18-1912,Female,Other,Carpenter,New York,2
+Southampton,Olympic,Third,Samantha, Mugica,1,04-15-1912,Male,White,Baker,Cherbourg,1
+Liverpool,Adriatic,Third,Marcos, Atencio,30,04-18-1912,Male,Other,None,New York,1
+Liverpool,Mauretania,First,Van, Lor,11,04-18-1912,Female,White,Mason,New York,1
+Southampton,Olympic,Third,Shareefa, El-kaleel,49,04-15-1912,Male,Other,Mason,New York,3
+Liverpool,Adriatic,Third,Elizario, Self,58,04-17-1912,Female,Black,Carpenter,New York,4
+Liverpool,Adriatic,Second,Kyle, Brumbaugh,26,04-16-1912,Female,White,Mason,New York,3
+Southampton,Titanic,Second,Saaya, Kamidate,51,04-17-1912,Female,Other,Shoemaker,New York,3
+Southampton,Britannic,Second,Jesus, Morales Granados,19,04-18-1912,Male,Hispanic,Merchant,New York,4
+Liverpool,Carpathia,First,Doiminique, Haile,14,04-15-1912,Female,Black,Baker,New York,4
+Liverpool,Celtic,Second,Gabriella, Siewiyumptewa,4,04-16-1912,Female,Asian,Baker,New York,4
+Liverpool,Carpathia,Second,Daniel, Gregory,98,04-16-1912,Female,Black,None,New York,5
+Southampton,Olympic,Second,Marena, Chaloupka,83,04-15-1912,Male,Asian,Shoemaker,New York,3
+Liverpool,Mauretania,Third,Alejandra, Cervantes,7,04-15-1912,Female,White,Carpenter,New York,5
+Liverpool,Adriatic,First,Iyaad, Al-yousuf,32,04-15-1912,Female,Asian,Blacksmith,New York,1
+Liverpool,Adriatic,Third,Kamee, Vanacore,97,04-16-1912,Female,Black,Weaver,New York,4
+Liverpool,Lusitania,Second,Dana, Bryner,90,04-20-1912,Male,Other,Baker,New York,3
+Liverpool,Carpathia,Second,Mercy, Kang,5,04-16-1912,Female,Hispanic,None,New York,2
+Liverpool,Mauretania,Second,Najavee, Roseley,nineteen-four,04-20-1912,Male,Asian,Baker,New York,5
+Liverpool,Baltic,Second,Marc, Leal,nineteen-three,04-16-1912,Male,Hispanic,Tailor,New York,3
+Southampton,Britannic,Second,Christian, Martell,65,04-19-1912,Male,Asian,Tailor,New York,4
+Southampton,Olympic,First,Derrik, Jarvis,2,04-17-1912,Female,White,Shoemaker,New York,3
+Southampton,Britannic,Third,Yessica, Martinez,40,04-16-1912,Female,Black,Weaver,New York,5
+Liverpool,Baltic,First,Abdus Salam, Al-abbasi,16,04-15-1912,Female,Asian,Farmer,New York,2
+Liverpool,Aquitania,First,Ali, Aguilar,NA-,04-20-1912,Female,White,Merchant,New York,2
+Southampton,Britannic,Second,Aatika, Al-aziz,90,04-17-1912,Female,Hispanic,Baker,New York,2
+Liverpool,Celtic,Second,Warda, El-farran,7,04-15-1912,Male,White,Blacksmith,New York,5
+Liverpool,Adriatic,Third,Alyvia, Vincent,19,04-19-1912,Male,Other,Carpenter,New York,4
+Liverpool,Celtic,Third,Justin, Albo,5,04-19-1912,Male,Asian,Mason,New York,3
+Liverpool,Carpathia,Third,Diego, Rodriguez,92,04-19-1912,Male,Other,Baker,New York,1
+Liverpool,Aquitania,Third,Thanaa, El-moghaddam,94,04-15-1912,Female,White,Baker,New York,1
+Liverpool,Adriatic,Third,Michael, Nguyen,68,04-17-1912,Female,Hispanic,Baker,New York,4
+Liverpool,Baltic,Second,Tia, Heneman,3,04-19-1912,Male,White,None,New York,5
+Liverpool,Mauretania,First,Thaamir, Al-younes,59,04-20-1912,Female,Asian,Miner,New York,1
+Liverpool,Adriatic,Third,Samantha, Myers,39,04-16-1912,Female,Other,Miner,New York,4
+Liverpool,Adriatic,Second,Rose, Kosmiski,68,04-18-1912,Male,Other,None,New York,3
+Liverpool,Adriatic,Third,Kara, Trout,8,04-19-1912,Female,Other,Carpenter,Cherbourg,5
+Liverpool,Mauretania,First,Adrian, Ferrell,4,04-20-1912,Female,White,Farmer,New York,3
+Liverpool,Lusitania,Second,Saamiqa, El-yassin,39,04-17-1912,Male,Other,Tailor,New York,4
+Liverpool,Celtic,Second,Jack, Walters,10,04-17-1912,Female,Hispanic,Shoemaker,New York,3
+Southampton,Titanic,Third,Mariela, Vigil,3,04-18-1912,Male,Hispanic,Miner,New York,4
+Liverpool,Carpathia,Third,Nicholas, Punzal,76,04-15-1912,Male,White,Weaver,New York,1
+Liverpool,Aquitania,First,Izzat, El-jafari,17,04-20-1912,Male,White,Tailor,New York,5
+Southampton,Britannic,Third,Tareefa, Al-amiri,49,04-16-1912,Male,Other,Merchant,New York,3
+Liverpool,Adriatic,First,Min, Loi,40,04-20-1912,Female,Asian,Miner,New York,5
+Liverpool,Celtic,Second,Sundus, El-assaf,79,04-16-1912,Male,Black,Farmer,New York,1
+Liverpool,Aquitania,Third,Jennifer, Worley,55,04-15-1912,Female,Asian,Shoemaker,New York,4
+Liverpool,Lusitania,First,Ramalaan, Al-beshara,33,04-15-1912,Male,Asian,Carpenter,New York,5
+Liverpool,Adriatic,Second,Caitlyn, Edwards,41,04-17-1912,Female,Other,Farmer,New York,2
+Liverpool,Carpathia,Second,Brian, Curtis,30,04-16-1912,Female,Asian,Miner,New York,4
+Southampton,Titanic,First,Andrew, Chinea,19,04-19-1912,Female,Asian,Merchant,New York,4
+Liverpool,Aquitania,First,Raymond, Anderson,100,04-17-1912,Female,White,Carpenter,New York,3
+Liverpool,Carpathia,First,Muhjar, Al-majid,8,04-15-1912,Female,Black,Shoemaker,New York,1
+Southampton,Olympic,Third,Leon, Tryels,1,04-19-1912,Male,Other,None,New York,4
+Liverpool,Celtic,First,Larissa, Angell,98,04-20-1912,Male,Black,Baker,New York,2
+Southampton,Titanic,First,Devin, King,69,04-20-1912,Male,Hispanic,Mason,New York,4
+Liverpool,Celtic,First,Eun, Yoshimura,5,04-20-1912,Female,Hispanic,Merchant,New York,3
+Liverpool,Carpathia,Third,Kenneth, O'neill,45,04-19-1912,Male,Hispanic,Baker,New York,4
+Liverpool,Celtic,Second,Jamaal, Al-rashed,1,04-20-1912,Female,White,None,Cherbourg,2
+Liverpool,Celtic,Second,Jeremiah, Goldman,2,04-15-1912,Male,Other,Shoemaker,New York,4
+Liverpool,Carpathia,Second,Kyra, O'connor,94,04-15-1912,Male,Black,Weaver,New York,5
+Southampton,Olympic,Third,Sarah, Ji,nineteen-zero,04-15-1912,Male,Asian,Carpenter,New York,5
+Liverpool,Aquitania,Third,Wajeeb, Al-mahmoud,1,04-16-1912,Female,White,Blacksmith,New York,1
+Liverpool,Celtic,Second,Sajaa, El-hariri,97,04-17-1912,Male,Asian,None,Cherbourg,2
+Liverpool,Mauretania,Third,Haaniya, Al-kanan,55,04-18-1912,Male,Other,Weaver,New York,5
+Liverpool,Adriatic,First,Jose, Kindall,59,04-18-1912,Male,Hispanic,Miner,New York,4
+Liverpool,Lusitania,Third,Dora, Manu,60,04-17-1912,Male,Black,Blacksmith,New York,4
+Liverpool,Baltic,First,Aalon, Hammond,97,04-19-1912,Male,White,Weaver,New York,4
+Liverpool,Carpathia,Third,Emily, Johnson,NA-,04-17-1912,Male,Hispanic,Blacksmith,New York,4
+Liverpool,Mauretania,Third,Reed, Musick-occhiuto,4,04-15-1912,Male,Hispanic,Baker,New York,2
+Liverpool,Baltic,Second,Jeremiah, Emanuel,nineteen-four,04-20-1912,Male,Black,Mason,New York,4
+Liverpool,Aquitania,Second,Tareefa, El-niazi,6,04-16-1912,Female,Black,Miner,New York,4
+Liverpool,Mauretania,Second,Nu'maan, Al-sabir,6,04-17-1912,Male,Black,Mason,New York,5
+Southampton,Titanic,First,Karlena, Merritt,61,04-17-1912,Female,Hispanic,Blacksmith,New York,4
+Liverpool,Adriatic,First,Darias, Abrams,NA-,04-18-1912,Male,Hispanic,Mason,New York,2
+Liverpool,Lusitania,Third,Yoshi, Thang,66,04-16-1912,Male,Hispanic,Baker,New York,2
+Liverpool,Lusitania,First,Colton, Cardoza,10,04-18-1912,Female,Asian,Baker,New York,3
+Liverpool,Adriatic,Third,Kevin, Davis,83,04-19-1912,Male,Asian,Shoemaker,Cherbourg,1
+Liverpool,Mauretania,Second,Neelish, Carter,49,04-17-1912,Female,Asian,Shoemaker,New York,4
+Liverpool,Adriatic,Second,Jason, Kim,74,04-18-1912,Female,Hispanic,Miner,New York,5
+Liverpool,Aquitania,First,Jeremiah, Taylor,8,04-15-1912,Female,Black,Farmer,New York,4
+Southampton,Olympic,Second,Maisara, Al-attar,3,04-19-1912,Male,Hispanic,Baker,Cherbourg,5
+Liverpool,Carpathia,Third,Sang Kyun, Do,5,04-15-1912,Male,Other,Miner,New York,1
+Liverpool,Mauretania,Third,Crue, Sanchez,45,04-20-1912,Female,White,Tailor,Cherbourg,3
+Southampton,Olympic,First,Nicholas, Alba,80,04-18-1912,Female,Other,Merchant,New York,2
+Liverpool,Lusitania,Second,Aneesa, El-jamal,79,04-18-1912,Male,White,Blacksmith,Cherbourg,2
+Liverpool,Aquitania,First,Matthew, Patil,82,04-19-1912,Female,White,Shoemaker,New York,3
+Liverpool,Carpathia,First,Tiana, Valdes,13,04-16-1912,Male,Hispanic,Blacksmith,Cherbourg,5
+Liverpool,Adriatic,First,Hikma, Al-aydin,1,04-18-1912,Female,Black,Miner,New York,3
+Liverpool,Aquitania,Second,Miriam Aileen, Tanimoto,5,04-15-1912,Male,Other,None,New York,5
+Liverpool,Carpathia,Second,Isaiah, Hancock,25,04-16-1912,Male,White,Tailor,New York,2
+Liverpool,Mauretania,Third,Emilee, Rocha,0,04-18-1912,Female,Other,Weaver,New York,1
+Liverpool,Mauretania,First,Juhaina, Al-demian,75,04-18-1912,Male,Asian,None,New York,5
+Liverpool,Celtic,Second,Brandon, Froning,4,04-18-1912,Male,Asian,Shoemaker,New York,4
+Liverpool,Baltic,Third,Luke, Woken Weidlich,3,04-18-1912,Female,Other,Farmer,New York,1
+Liverpool,Carpathia,Third,Padideh, Parker,7,04-17-1912,Female,Asian,Farmer,New York,2
+Liverpool,Lusitania,Third,Shafinity, Pugh,3,04-15-1912,Male,Asian,None,New York,5
+Liverpool,Mauretania,Third,Zhening, Rayos,5,04-17-1912,Female,Asian,Shoemaker,New York,1
+Liverpool,Celtic,Second,Ashley, Weir,5,04-16-1912,Male,Black,Weaver,New York,4
+Liverpool,Celtic,Second,Ahmad, Webster,65,04-15-1912,Female,Asian,Shoemaker,New York,5
+Liverpool,Lusitania,Second,Muntasir, El-aslam,5,04-18-1912,Male,Asian,None,New York,5
+Southampton,Britannic,Third,Dimario, Thomas,85,04-15-1912,Female,Asian,Baker,New York,3
+Southampton,Britannic,Third,Timothy, Ellerman,79,04-20-1912,Female,Other,Weaver,New York,2
+Liverpool,Celtic,First,Charleen, Garman,22,04-15-1912,Female,White,Baker,New York,3
+Liverpool,Carpathia,Third,Issac, Roberts,7,04-17-1912,Female,Hispanic,None,New York,2
+Liverpool,Celtic,Third,Kendra, Hoffman,24,04-20-1912,Female,Black,Shoemaker,New York,4
+Liverpool,Aquitania,First,Aaron, Molina,29,04-17-1912,Male,Hispanic,Miner,New York,2
+Liverpool,Adriatic,Second,Noah, Khatter,nineteen-one,04-15-1912,Female,Asian,Carpenter,New York,5
+Liverpool,Baltic,First,Jacob, Merrill,33,04-16-1912,Male,White,None,New York,5
+Southampton,Britannic,Third,Murshid, El-basha,49,04-18-1912,Male,Hispanic,Carpenter,New York,2
+Liverpool,Baltic,Third,Dalia, Contreras,4,04-18-1912,Male,Other,Weaver,New York,4
+Liverpool,Celtic,Second,Jun Raziel, Chang,2,04-20-1912,Female,White,Weaver,New York,5
+Liverpool,Celtic,First,Saaya, Qureshi,3,04-20-1912,Female,Hispanic,Tailor,New York,1
+Southampton,Olympic,Third,Aylissa, Abrams,8,04-16-1912,Female,White,Mason,New York,1
+Liverpool,Celtic,Third,Gilbert, Gonzales,60,04-19-1912,Female,Black,Farmer,New York,4
+Liverpool,Celtic,Third,Angelique, Johnson,2,04-19-1912,Female,Other,Shoemaker,New York,4
+Southampton,Titanic,First,Alana, Goode,1,04-15-1912,Female,Asian,None,New York,2
+Liverpool,Lusitania,Second,Shannon, Archuleta,99,04-18-1912,Male,Hispanic,Merchant,New York,2
+Liverpool,Mauretania,Second,Shirley, Mack,56,04-15-1912,Female,Other,Farmer,New York,2
+Liverpool,Aquitania,Second,Dmitri, Roberts,98,04-16-1912,Female,Other,Blacksmith,New York,1
+Southampton,Titanic,First,Sadyan, Gardner,25,04-19-1912,Female,Other,Blacksmith,Cherbourg,1
+Liverpool,Adriatic,Third,Karen, Phou,52,04-16-1912,Female,Black,Baker,New York,4
+Liverpool,Lusitania,First,Charles, Montano,90,04-19-1912,Female,Asian,Merchant,New York,3
+Liverpool,Carpathia,Third,Dulguun, Lu,27,04-19-1912,Male,Other,None,New York,2
+Liverpool,Baltic,Second,Kori, Dickey-banmally,1,04-16-1912,Male,Hispanic,Weaver,New York,2
+Southampton,Titanic,First,Marcus, Dixon,95,04-16-1912,Male,Hispanic,Blacksmith,New York,1
+Liverpool,Carpathia,Third,Izzat, Al-toure,4,04-18-1912,Male,White,Mason,New York,2
+Liverpool,Celtic,Third,Blake, Maltby,96,04-17-1912,Female,Asian,Blacksmith,New York,2
+Liverpool,Baltic,Third,Brett, Day,26,04-19-1912,Male,Black,Farmer,New York,3
+Liverpool,Mauretania,First,Shannon, Sa,57,04-18-1912,Female,Asian,Tailor,New York,2
+Southampton,Britannic,Third,Taylor, Faas,55,04-19-1912,Male,Other,Merchant,New York,1
+Liverpool,Aquitania,First,Flor, Gonzalez,44,04-15-1912,Female,White,Weaver,New York,2
+Liverpool,Aquitania,Second,Jesus, Maestas,0,04-18-1912,Female,Hispanic,Blacksmith,New York,1
+Liverpool,Adriatic,Third,Jameela, Combs,37,04-19-1912,Male,Other,Baker,New York,5
+Liverpool,Carpathia,Second,Nadheera, El-hussein,78,04-20-1912,Male,Asian,Mason,New York,2
+Liverpool,Mauretania,First,Chance, Warner,2,04-15-1912,Female,Black,None,New York,4
+Southampton,Titanic,Second,Michelle, Mclean,24,04-19-1912,Male,Other,Blacksmith,New York,2
+Southampton,Britannic,Third,Shaamikh, Al-ebrahim,1,04-19-1912,Female,Hispanic,Farmer,New York,5
+Liverpool,Aquitania,Second,Starla, Gardner,61,04-20-1912,Male,Hispanic,Tailor,New York,2
+Liverpool,Lusitania,Third,Michael, Park,82,04-20-1912,Male,White,Miner,New York,3
+Liverpool,Celtic,Third,Aylin, Louaillier,55,04-19-1912,Female,Asian,Merchant,New York,4
+Liverpool,Adriatic,Second,Jacqueline, Flores,58,04-16-1912,Male,Other,Blacksmith,New York,5
+Liverpool,Celtic,First,Dylan, Bacon-maldonado,83,04-19-1912,Female,Asian,Mason,New York,4
+Liverpool,Lusitania,Third,Nancy, Cha,87,04-19-1912,Female,Hispanic,Miner,New York,2
+Liverpool,Adriatic,First,Lauryn, Smith,nineteen-one,04-20-1912,Female,White,None,New York,5
+Liverpool,Adriatic,Second,Faraah, Al-badie,84,04-17-1912,Female,Black,Tailor,Cherbourg,2
+Liverpool,Adriatic,Second,Nicholas, Rasmussen,15,04-16-1912,Female,Hispanic,Tailor,New York,1
+Liverpool,Baltic,Third,Ikram, Al-ameen,41,04-17-1912,Female,Other,Carpenter,New York,1
+Liverpool,Baltic,First,Javeonte, Galassini,30,04-19-1912,Male,Other,Merchant,New York,4
+Liverpool,Adriatic,Third,Alfredo, Sanchez,14,04-15-1912,Male,Asian,Miner,New York,3
+Liverpool,Adriatic,First,Maleeha, Al-majid,76,04-15-1912,Female,Asian,Blacksmith,New York,3
+Liverpool,Adriatic,Third,Aurora, Ellis,16,04-15-1912,Female,Hispanic,None,New York,2
+Liverpool,Mauretania,Third,Hannah, Conary,99,04-17-1912,Male,White,Tailor,New York,2
+Liverpool,Mauretania,Third,Derrick, Marquez,nineteen-zero,04-20-1912,Female,White,Weaver,Cherbourg,3
+Liverpool,Mauretania,Second,Keisha, Yates,36,04-20-1912,Female,Other,Blacksmith,New York,2
+Liverpool,Aquitania,Second,Jafar, El-azad,40,04-15-1912,Female,Hispanic,Baker,New York,4
+Liverpool,Mauretania,Third,Saeed, Al-aydin,15,04-15-1912,Female,White,Tailor,New York,4
+Liverpool,Celtic,Third,Yu Shen, Belzer,8,04-15-1912,Male,Other,None,New York,5
+Liverpool,Celtic,First,Frances, Martinez,42,04-17-1912,Male,Black,None,New York,3
+Liverpool,Carpathia,First,Maria, Berdiales,61,04-19-1912,Female,Hispanic,Shoemaker,New York,5
+Southampton,Titanic,Second,Jeslyn, Roth,4,04-18-1912,Male,Other,Merchant,New York,2
+Liverpool,Baltic,Third,Ian, Xiong,NA-,04-17-1912,Female,Asian,Merchant,New York,3
+Southampton,Britannic,Third,Lauren, Gullette,8,04-16-1912,Female,Black,Blacksmith,New York,4
+Liverpool,Mauretania,Second,Naathan, Rogers,6,04-20-1912,Male,Other,Tailor,New York,3
+Liverpool,Lusitania,Third,Sharayah, Ruiz-hernandez,42,04-17-1912,Male,Asian,Carpenter,New York,1
+Liverpool,Mauretania,Third,Riley, Baker,5,04-20-1912,Male,Other,Baker,New York,5
+Liverpool,Mauretania,First,Ivonne, Rodriguez,96,04-18-1912,Female,Black,Carpenter,New York,3
+Liverpool,Baltic,Third,Numair, Al-semaan,3,04-19-1912,Male,Black,Carpenter,New York,3
+Southampton,Titanic,Second,Toni, Taibl,85,04-18-1912,Female,Black,Miner,New York,3
+Liverpool,Adriatic,Second,Angela, Marquez,8,04-20-1912,Male,Black,Carpenter,New York,5
+Liverpool,Aquitania,First,Stormie, Salisbury,12,04-19-1912,Male,Asian,Farmer,New York,2
+Liverpool,Mauretania,Third,Sakeena, Al-hares,7,04-15-1912,Female,Black,Weaver,New York,4
+Liverpool,Adriatic,Third,Lindsey, Rabat,11,04-19-1912,Female,Black,Merchant,Cherbourg,4
+Liverpool,Celtic,First,Kendyl, Yamamoto,1,04-15-1912,Male,Black,Carpenter,New York,5
+Liverpool,Celtic,Third,Hanbin, Le,93,04-16-1912,Female,Asian,Tailor,New York,4
+Liverpool,Carpathia,Second,Serena, Vang,8,04-18-1912,Male,White,Mason,New York,5
+Liverpool,Mauretania,Second,Vanna, Alyazidi,48,04-19-1912,Female,Black,Carpenter,New York,4
+Southampton,Titanic,Second,Jameel, Al-sesay,27,04-15-1912,Female,White,Merchant,New York,3
+Liverpool,Celtic,First,Seunghoo, Nguyen,90,04-17-1912,Male,Other,Farmer,New York,2
+Liverpool,Aquitania,Third,Erick, Calderon,75,04-16-1912,Male,Hispanic,Weaver,New York,5
+Liverpool,Baltic,First,Devann, Castaneda,NA-,04-15-1912,Female,White,Mason,New York,5
+Liverpool,Celtic,First,Katherine, Norton,56,04-20-1912,Male,White,Miner,New York,4
+Southampton,Titanic,First,Dallas, Ruelas,65,04-20-1912,Male,White,Weaver,New York,3
+Liverpool,Adriatic,First,Ashli, Hrnjic,13,04-20-1912,Male,Asian,Weaver,New York,2
+Liverpool,Mauretania,First,Amirah, Mathys,100,04-19-1912,Female,Asian,Shoemaker,New York,1
+Southampton,Britannic,Second,Jonathan, Beechley,7,04-15-1912,Male,Other,Tailor,New York,1
+Liverpool,Adriatic,Third,Jaymie, Baca,6,04-16-1912,Female,Asian,Shoemaker,New York,1
+Southampton,Britannic,First,Sabreanna, Schaffer,19,04-17-1912,Female,Other,Farmer,New York,1
+Liverpool,Baltic,Second,Joshua, Torrez,8,04-17-1912,Female,Asian,Shoemaker,Cherbourg,4
+Southampton,Britannic,Second,Mumina, El-ismael,17,04-16-1912,Female,Asian,Miner,New York,2
+Southampton,Olympic,First,Sameeha, Al-tabet,6,04-20-1912,Female,Black,Miner,New York,3
+Liverpool,Lusitania,First,Tulaiha, El-saidi,2,04-17-1912,Male,Hispanic,Baker,New York,1
+Liverpool,Adriatic,Third,Margaret, Vanderpool,41,04-17-1912,Female,Hispanic,None,New York,4
+Liverpool,Celtic,First,Maaiz, El-rehmann,3,04-17-1912,Female,Black,Tailor,New York,3
+Southampton,Britannic,First,Analise, Gallegos,62,04-18-1912,Male,Hispanic,None,New York,2
+Southampton,Britannic,Third,Yordanos, Kemp,1,04-20-1912,Female,Hispanic,Carpenter,New York,2
+Liverpool,Mauretania,First,Jasmine, Peiffer,NA-,04-20-1912,Male,White,None,New York,1
+Liverpool,Celtic,First,Marissa, Arrance,36,04-15-1912,Female,Other,Mason,New York,5
+Liverpool,Adriatic,Third,Sky, Parmiter,46,04-15-1912,Female,Hispanic,None,New York,3
+Liverpool,Aquitania,Second,Dinnicka, Luce,NA-,04-17-1912,Female,Asian,Mason,New York,1
+Liverpool,Baltic,Second,Jozlynn, Mendoza,12,04-20-1912,Male,Hispanic,Shoemaker,New York,4
+Liverpool,Aquitania,Second,Jacob, Ma,99,04-17-1912,Male,Hispanic,Baker,New York,2
+Liverpool,Celtic,Third,Maliek, Mcgrew,3,04-19-1912,Male,Asian,Shoemaker,New York,1
+Southampton,Britannic,Third,Nooriyya, Al-rehmann,6,04-17-1912,Female,White,None,New York,4
+Liverpool,Carpathia,First,Haakima, El-harroun,19,04-19-1912,Male,Black,None,New York,2
+Liverpool,Baltic,Third,Andrew, Mills,2,04-17-1912,Female,Hispanic,Baker,New York,4
+Liverpool,Carpathia,Second,Isabella, Shrestha,94,04-18-1912,Female,White,Mason,New York,3
+Southampton,Titanic,Third,Kevin, Lao,36,04-20-1912,Female,Other,Carpenter,New York,1
+Liverpool,Celtic,First,Holly, Apodaca-anaya,50,04-15-1912,Female,White,Weaver,New York,5
+Southampton,Titanic,First,Hanoona, Al-safi,70,04-18-1912,Female,Black,Shoemaker,New York,4
+Southampton,Olympic,Second,Shameion, Johnson,61,04-15-1912,Female,Asian,Blacksmith,New York,3
+Liverpool,Baltic,Second,Amanda, Lucero,59,04-20-1912,Male,Black,Blacksmith,New York,3
+Liverpool,Carpathia,Second,Audrey, Ochoa,81,04-17-1912,Female,Black,Merchant,New York,2
+Liverpool,Aquitania,Second,Devin, Martin,93,04-20-1912,Female,Black,Farmer,New York,1
+Liverpool,Aquitania,Second,Alexis, Halaseh,2,04-19-1912,Female,White,Weaver,New York,5
+Liverpool,Aquitania,Second,Jennifer, Doura,54,04-19-1912,Male,White,Mason,New York,2
+Liverpool,Carpathia,First,Meeka, Wing,46,04-20-1912,Male,Asian,Baker,New York,4
+Southampton,Titanic,Third,Estrellita, Espinoza,nineteen-three,04-20-1912,Female,Other,Farmer,New York,4
+Southampton,Britannic,First,Asre, Hughes,63,04-16-1912,Female,White,Mason,New York,5
+Liverpool,Mauretania,Third,Christopher, Hines,33,04-16-1912,Female,Black,Shoemaker,New York,3
+Southampton,Olympic,Third,Davien, Tran,31,04-19-1912,Male,Black,Mason,New York,3
+Southampton,Britannic,Third,Alyssa, Herman,74,04-20-1912,Female,Other,None,New York,3
+Southampton,Britannic,Second,Oscar, Kim,72,04-17-1912,Male,Hispanic,Miner,New York,4
+Liverpool,Baltic,Second,Adesuwa, Ned,5,04-17-1912,Male,Asian,Tailor,New York,4
+Southampton,Titanic,First,K Mckenna, Murray,91,04-19-1912,Female,Black,Blacksmith,New York,4
+Southampton,Olympic,Second,Nawfal, Al-yasin,37,04-15-1912,Male,White,None,New York,1
+Liverpool,Aquitania,First,Camron, Paschal,6,04-16-1912,Female,Asian,None,New York,3
+Liverpool,Carpathia,Third,Cassidy, Mullins,53,04-19-1912,Male,Black,Baker,New York,2
+Southampton,Britannic,Third,Claire, Gulczynski,nineteen-four,04-19-1912,Female,White,Blacksmith,New York,5
+Liverpool,Mauretania,First,Masroora, El-bagheri,46,04-16-1912,Male,Other,None,New York,1
+Liverpool,Celtic,Second,Jeremy, Virmani,52,04-20-1912,Male,White,Mason,New York,4
+Liverpool,Carpathia,Second,Trenton, Glaspy,4,04-19-1912,Male,Other,Baker,Cherbourg,2
+Liverpool,Adriatic,Second,Jessica, Hernandez,4,04-16-1912,Female,Hispanic,Farmer,New York,4
+Liverpool,Adriatic,Third,Mycah, Holt,3,04-16-1912,Female,Asian,Farmer,New York,3
+Southampton,Britannic,First,Karen, Perez,89,04-18-1912,Female,Black,Baker,New York,1
+Southampton,Titanic,Third,Serafina, Gomez,3,04-16-1912,Male,Black,Merchant,New York,1
+Liverpool,Celtic,First,Ana, Mestas,73,04-15-1912,Female,Black,Blacksmith,New York,4
+Liverpool,Celtic,Second,Andrea, Delgado,2,04-17-1912,Female,Black,Mason,New York,3
+Southampton,Titanic,Third,Spencer, Phillips,28,04-18-1912,Male,Other,Baker,Cherbourg,2
+Liverpool,Baltic,Third,Tayveon, Pope,73,04-17-1912,Male,Hispanic,Baker,New York,1
+Liverpool,Lusitania,First,Shania, Kunam,87,04-15-1912,Male,White,Mason,New York,5
+Liverpool,Baltic,First,Joseph, Pritchett,2,04-19-1912,Female,Other,Farmer,Cherbourg,1
+Liverpool,Mauretania,Second,Graham, Williams,99,04-17-1912,Female,White,Shoemaker,Cherbourg,2
+Liverpool,Aquitania,Second,Dakota, Nastacio,23,04-15-1912,Male,Black,Blacksmith,New York,2
+Liverpool,Carpathia,First,Michaela, Fourhorn,37,04-18-1912,Female,Other,Shoemaker,New York,4
+Southampton,Britannic,Third,Danesha, Mims,NA-,04-16-1912,Female,Black,Blacksmith,New York,3
+Southampton,Britannic,Second,Houa, Thammarath,54,04-19-1912,Female,Other,Weaver,New York,4
+Liverpool,Mauretania,Third,Taahir, El-alam,46,04-19-1912,Female,Black,Baker,New York,3
+Liverpool,Lusitania,First,Alejandro, Montes,11,04-19-1912,Female,Hispanic,Miner,New York,5
+Liverpool,Aquitania,Second,Tristin, Coker,45,04-16-1912,Female,Black,Weaver,New York,4
+Liverpool,Celtic,Third,Jesse, Marez,60,04-19-1912,Male,White,Miner,New York,3
+Liverpool,Mauretania,Second,Chinmay, Liang,3,04-19-1912,Female,Other,Carpenter,New York,3
+Liverpool,Baltic,Third,Yadiel, Mcneal,75,04-20-1912,Male,Asian,Merchant,New York,2
+Liverpool,Adriatic,Second,Benjamin, Gorman,29,04-18-1912,Female,Hispanic,Miner,Cherbourg,5
+Liverpool,Adriatic,Second,Marisa, Bear,0,04-18-1912,Male,Black,Miner,New York,1
+Liverpool,Celtic,First,Ryan, Tanko,85,04-19-1912,Female,Hispanic,Baker,New York,5
+Southampton,Olympic,Third,Maazina, Al-zakaria,29,04-17-1912,Male,Hispanic,Weaver,New York,2
+Southampton,Olympic,Second,Azaria, Hernandez,16,04-19-1912,Female,Other,Merchant,New York,3
+Liverpool,Lusitania,First,Fazeela, Higa,79,04-20-1912,Female,Other,Blacksmith,New York,3
+Liverpool,Mauretania,First,Dieu Linh, Norton,2,04-19-1912,Male,Black,Carpenter,New York,3
+Liverpool,Carpathia,Second,Terell, Thompson,92,04-20-1912,Male,White,Baker,New York,5
+Liverpool,Adriatic,Second,Vanessa, Suazo,33,04-16-1912,Female,Other,Weaver,New York,4
+Liverpool,Celtic,First,Muaaid, El-agha,45,04-17-1912,Male,Asian,Shoemaker,New York,3
+Southampton,Titanic,Second,Jeremy, Brown,67,04-17-1912,Female,Hispanic,Merchant,New York,5
+Southampton,Titanic,First,Kathryn, Stryker,25,04-16-1912,Male,White,Tailor,New York,5
+Southampton,Britannic,Third,Megan, Spor,34,04-20-1912,Female,Hispanic,Shoemaker,New York,3
+Liverpool,Baltic,First,Nabeeh, El-shariff,8,04-15-1912,Female,Black,Tailor,New York,5
+Liverpool,Lusitania,First,Sidqi, Al-nasir,4,04-15-1912,Female,Hispanic,Carpenter,New York,5
+Liverpool,Baltic,Second,Genevieve, Contreras,94,04-20-1912,Male,Other,Weaver,New York,4
+Southampton,Titanic,First,Vaughn, Jefferson,74,04-15-1912,Male,White,Baker,New York,2
+Southampton,Britannic,Second,Allison, Dejong,35,04-18-1912,Male,Black,Shoemaker,New York,5
+Southampton,Titanic,Third,Jocelyn, Mejia,89,04-18-1912,Female,White,Weaver,New York,4
+Liverpool,Lusitania,Third,Scott, Burton,89,04-18-1912,Female,Asian,None,New York,1
+Liverpool,Baltic,Second,Taalib, Al-shams,7,04-17-1912,Female,Black,Merchant,New York,1
+Southampton,Titanic,Second,Trinidad, Baca,97,04-19-1912,Male,Other,Farmer,New York,3
+Liverpool,Adriatic,First,Lamyanique, Brown,25,04-19-1912,Male,Black,None,New York,2
+Liverpool,Adriatic,Second,Ciera, Mills,7,04-17-1912,Male,Black,Shoemaker,Cherbourg,4
+Liverpool,Lusitania,First,Saara, El-farran,96,04-20-1912,Male,Asian,Carpenter,New York,5
+Liverpool,Carpathia,First,Christian, Blackwater,79,04-17-1912,Female,Asian,Mason,New York,2
+Liverpool,Aquitania,Third,Rashad, Brown,0,04-20-1912,Male,Black,Baker,New York,2
+Liverpool,Baltic,Third,Janice, Saunders,25,04-20-1912,Female,Other,None,New York,3
+Southampton,Olympic,Third,Mai Ying, Johnson,66,04-19-1912,Female,Other,Blacksmith,New York,3
+Liverpool,Carpathia,Third,Tameem, Al-shareef,89,04-18-1912,Female,Black,Weaver,New York,5
+Liverpool,Carpathia,First,Aadil, Al-aziz,9,04-20-1912,Male,Asian,Blacksmith,New York,5
+Liverpool,Carpathia,First,Emilee, Doan,6,04-15-1912,Female,White,Baker,New York,5
+Southampton,Britannic,First,Jasmine, Herrington,27,04-19-1912,Male,White,Carpenter,New York,2
+Liverpool,Celtic,Third,Olivet, Risenhoover,18,04-17-1912,Male,Hispanic,Tailor,New York,3
+Southampton,Olympic,Third,Ishobel, Stratton,6,04-17-1912,Male,Black,Farmer,New York,1
+Liverpool,Celtic,Third,Brooke, Negash,86,04-18-1912,Male,Other,Weaver,New York,5
+Liverpool,Aquitania,Second,Alan, Gilbert,22,04-15-1912,Male,Other,Farmer,New York,3
+Liverpool,Aquitania,Third,Hannah, Cruz,7,04-18-1912,Male,Hispanic,Shoemaker,New York,3
+Liverpool,Adriatic,Second,Haley, Berg,32,04-20-1912,Male,Other,Baker,New York,5
+Liverpool,Celtic,Third,Aliyya, Al-pasha,69,04-20-1912,Female,Other,Carpenter,New York,2
+Liverpool,Lusitania,Second,Mamoon, Al-nawaz,100,04-20-1912,Male,Hispanic,Tailor,New York,4
+Southampton,Olympic,Second,Mohamed, Green,40,04-18-1912,Male,Hispanic,Blacksmith,New York,1
+Liverpool,Baltic,Second,Niles, Gay,98,04-17-1912,Female,White,Shoemaker,New York,2
+Liverpool,Lusitania,First,Gabriella, Gonzalez,42,04-18-1912,Female,Hispanic,Tailor,New York,3
+Liverpool,Baltic,Second,Shalika, Purvis,81,04-20-1912,Male,Hispanic,Blacksmith,New York,2
+Southampton,Titanic,Second,Chandler, Carter,5,04-15-1912,Male,Black,Farmer,New York,1
+Liverpool,Celtic,Third,Collin, Petree,7,04-18-1912,Male,Asian,Baker,Cherbourg,4
+Southampton,Titanic,First,Wasmaaa, El-dajani,44,04-16-1912,Male,White,Mason,New York,4
+Liverpool,Adriatic,First,Quaton, Price,54,04-18-1912,Female,Other,Farmer,Cherbourg,2
+Southampton,Olympic,Third,Jay, Lara,9,04-15-1912,Male,Black,Baker,New York,1
+Liverpool,Mauretania,Third,Daniel, Godinez,5,04-20-1912,Female,Black,Carpenter,Cherbourg,3
+Liverpool,Lusitania,First,Brandon, Boyd,84,04-16-1912,Female,Other,Merchant,New York,3
+Liverpool,Aquitania,Third,Wyatt, Lehi,1,04-18-1912,Female,Other,Baker,New York,4
+Liverpool,Carpathia,First,Cory, Mcbride,17,04-18-1912,Female,Asian,None,New York,3
+Liverpool,Adriatic,Second,Kathleen, Meneses,56,04-16-1912,Female,Other,Carpenter,New York,2
+Southampton,Titanic,Second,Mahmooda, Al-farrah,18,04-15-1912,Male,Hispanic,Carpenter,New York,4
+Liverpool,Mauretania,First,Muneefa, El-rassi,5,04-19-1912,Female,Other,Tailor,New York,2
+Liverpool,Celtic,Second,Windy, Lewis,81,04-19-1912,Male,Hispanic,Tailor,New York,2
+Liverpool,Baltic,First,Marcella, Ulibarri,55,04-17-1912,Female,Asian,Tailor,New York,5
+Southampton,Titanic,Second,Shantell, Clark,1,04-16-1912,Female,Hispanic,Tailor,New York,5
+Southampton,Britannic,Second,Aleda, Noland,5,04-15-1912,Female,Black,Miner,New York,1
+Liverpool,Baltic,Second,Vincent, Nelson,7,04-15-1912,Male,Hispanic,Farmer,New York,2
+Southampton,Britannic,Second,Shaafi, Al-mahmood,21,04-15-1912,Female,Hispanic,Miner,New York,2
+Liverpool,Carpathia,Second,Leslie, Barcelona,12,04-15-1912,Male,White,Tailor,New York,2
+Southampton,Olympic,First,Kendra, Martinez,57,04-15-1912,Male,White,Miner,New York,1
+Southampton,Britannic,Second,Devon, Reyes Gonzalez,14,04-16-1912,Female,White,Miner,New York,2
+Southampton,Britannic,Second,Breeana, Solarin,67,04-19-1912,Female,Asian,Merchant,New York,2
+Liverpool,Celtic,Second,Kevin, Kemp,25,04-16-1912,Male,Black,Miner,New York,1
+Liverpool,Aquitania,First,Alexander, Murray,77,04-16-1912,Male,Asian,Merchant,New York,1
+Southampton,Titanic,Second,Edythe, Tawzer,96,04-18-1912,Female,Hispanic,None,New York,2
+Liverpool,Baltic,Third,Tyler, Day,nineteen-two,04-15-1912,Female,Other,Carpenter,New York,3
+Southampton,Titanic,Second,Juan, Barron,53,04-18-1912,Male,Black,None,New York,5
+Liverpool,Celtic,First,Marley, Orth,50,04-20-1912,Female,Asian,Merchant,New York,4
+Southampton,Britannic,Second,Zorayda, Sanchez,54,04-15-1912,Male,Hispanic,None,New York,2
+Liverpool,Lusitania,Third,Julie, Le,77,04-16-1912,Female,Other,Shoemaker,New York,4
+Liverpool,Aquitania,First,Amber, Mills,24,04-18-1912,Male,Other,Weaver,New York,4
+Liverpool,Adriatic,Second,Lauren, Foutch,96,04-18-1912,Male,Other,Tailor,New York,4
+Liverpool,Mauretania,First,Rodney, Truitt,24,04-19-1912,Male,Hispanic,Carpenter,New York,3
+Liverpool,Aquitania,Second,Gregory, Watt,39,04-18-1912,Female,White,Weaver,New York,4
+Liverpool,Baltic,Second,Anthony, Clardy,24,04-16-1912,Female,White,Mason,New York,4
+Liverpool,Lusitania,First,Anthony, Pham,81,04-19-1912,Male,White,Shoemaker,New York,3
+Liverpool,Carpathia,First,Ali, Al-hashem,87,04-19-1912,Female,Asian,Tailor,New York,3
+Liverpool,Aquitania,Second,Sassan, Prilliman,85,04-20-1912,Female,White,Mason,New York,1
+Southampton,Titanic,Third,Julia, Joy,6,04-16-1912,Male,Black,Mason,New York,5
+Liverpool,Adriatic,Second,Alyssa, Hadley,55,04-15-1912,Male,Asian,Merchant,New York,3
+Liverpool,Celtic,First,Christine, Lastrella,2,04-20-1912,Female,Other,None,New York,2
+Liverpool,Lusitania,Second,Philman, Tindle,8,04-15-1912,Male,Asian,Miner,New York,1
+Liverpool,Lusitania,First,Elijah, Mcghee,5,04-19-1912,Male,Hispanic,Merchant,New York,5
+Liverpool,Lusitania,Second,Austin, Carroll,88,04-15-1912,Female,Asian,Tailor,Cherbourg,5
+Southampton,Titanic,First,Maaiz, El-ismael,43,04-18-1912,Male,Hispanic,Farmer,New York,5
+Liverpool,Adriatic,First,Lucas, Serrano,5,04-20-1912,Female,White,Merchant,New York,5
+Southampton,Titanic,Third,Ziyaad, El-adel,43,04-15-1912,Female,White,Blacksmith,Cherbourg,5
+Southampton,Olympic,Second,Rafeeda, Al-sheikh,1,04-18-1912,Female,Other,Weaver,New York,3
+Southampton,Olympic,First,Aqeela, Al-daoud,75,04-18-1912,Female,Hispanic,Farmer,New York,4
+Southampton,Titanic,Third,Keauna, Douglas Jr,17,04-19-1912,Female,Black,Tailor,New York,5
+Liverpool,Adriatic,First,Zaahid, Al-saab,NA-,04-20-1912,Female,White,Baker,New York,1
+Liverpool,Celtic,First,Nadia, Nguyen,29,04-19-1912,Male,Black,Blacksmith,New York,4
+Liverpool,Mauretania,Third,Zumruda, El-rasheed,1,04-15-1912,Female,Black,Merchant,New York,2
+Liverpool,Adriatic,Second,Whitney, Mulinde,75,04-15-1912,Female,White,Blacksmith,New York,5
+Liverpool,Aquitania,Third,Tiarra, Kassahun,43,04-19-1912,Male,Other,Carpenter,New York,4
+Liverpool,Aquitania,Third,Marisol, Rodriguez,64,04-18-1912,Male,Hispanic,Tailor,New York,1
+Southampton,Titanic,Second,Richard, Baca,18,04-18-1912,Female,Black,Merchant,New York,2
+Liverpool,Adriatic,Second,Hannah, Warta,84,04-20-1912,Male,Other,Tailor,New York,3
+Southampton,Titanic,Third,Brenna, Linke,20,04-15-1912,Male,White,None,New York,5
+Liverpool,Carpathia,Third,Stefan, Franklin-douglas,6,04-18-1912,Male,Black,Merchant,New York,3
+Liverpool,Baltic,First,Alex, Young,74,04-20-1912,Female,White,Baker,New York,2
+Liverpool,Celtic,First,Maria, Gonzalez,0,04-16-1912,Female,White,Merchant,New York,4
+Liverpool,Adriatic,Third,Neha, Phan,55,04-20-1912,Male,Asian,Farmer,New York,2
+Liverpool,Baltic,Second,Ubaida, Al-karim,23,04-20-1912,Male,Black,Farmer,New York,2
+Southampton,Britannic,Second,Dakota, Williams,86,04-19-1912,Male,Black,Weaver,Cherbourg,3
+Southampton,Britannic,Second,Ghassaan, Al-hakim,NA-,04-19-1912,Male,Asian,Blacksmith,New York,1
+Southampton,Olympic,Third,Tiffany, Hogan,8,04-20-1912,Female,Asian,Weaver,New York,2
+Liverpool,Celtic,Second,Lynn, Noe,25,04-16-1912,Male,Other,None,New York,1
+Liverpool,Celtic,First,Sarah, Eichie,14,04-15-1912,Female,Hispanic,None,New York,4
+Southampton,Titanic,Third,Sulama, Al-ahmad,87,04-15-1912,Female,White,Shoemaker,New York,1
+Liverpool,Lusitania,Second,James, Thurimella,31,04-19-1912,Male,Other,Tailor,New York,4
+Liverpool,Celtic,Second,Omar, Martinez,4,04-16-1912,Male,Hispanic,Shoemaker,New York,3
+Liverpool,Baltic,Second,Lucas, Forbes,21,04-19-1912,Female,Black,None,New York,4
+Liverpool,Adriatic,Second,Calvin, Nguyen,64,04-15-1912,Male,Other,Tailor,New York,3
+Southampton,Titanic,Third,Aasima, Al-molla,8,04-16-1912,Male,Asian,Baker,New York,5
+Liverpool,Celtic,Second,Menandez, Ortiz,90,04-19-1912,Male,Black,Mason,New York,4
+Liverpool,Carpathia,First,Francisco, Geist,42,04-17-1912,Male,Hispanic,Blacksmith,New York,3
+Liverpool,Baltic,Second,Janeah, Newton,7,04-19-1912,Female,Hispanic,Carpenter,New York,3
+Liverpool,Celtic,Second,Ashley, Neumaier,1,04-20-1912,Female,Other,Carpenter,Cherbourg,2
+Southampton,Titanic,First,Mary, Ng,10,04-20-1912,Male,Black,Weaver,New York,2
+Liverpool,Baltic,Second,Michael, Mahieu,7,04-15-1912,Female,Other,Merchant,New York,3
+Liverpool,Adriatic,Second,David, Kemp,67,04-17-1912,Male,Black,Shoemaker,New York,2
+Liverpool,Carpathia,First,Marcos, Nape Valverde,34,04-16-1912,Female,Asian,Merchant,New York,3
+Liverpool,Aquitania,Third,Akram, Anderson,72,04-20-1912,Female,Other,Miner,New York,4
+Liverpool,Celtic,First,Turki, Al-agha,66,04-17-1912,Female,Hispanic,Baker,New York,1
+Liverpool,Celtic,Third,Reagan, Nelson,49,04-19-1912,Male,Black,Weaver,New York,1
+Southampton,Titanic,Second,Joanna, Boltz,3,04-19-1912,Male,Other,Carpenter,New York,5
+Liverpool,Mauretania,First,Megan, Porco,45,04-18-1912,Female,White,Miner,New York,1
+Southampton,Olympic,First,Laura, Sherwood,89,04-16-1912,Female,Black,Mason,New York,3
+Southampton,Olympic,Third,Deandre, Wright,NA-,04-15-1912,Male,Black,Blacksmith,New York,4
+Liverpool,Adriatic,First,Darnell, Parker,60,04-16-1912,Female,Black,Baker,New York,2
+Liverpool,Adriatic,Second,Christia, Bauer,89,04-20-1912,Female,White,Farmer,New York,1
+Liverpool,Lusitania,First,Sara, Belozerov,8,04-18-1912,Female,White,Farmer,New York,5
+Southampton,Titanic,Second,Arielle, Sanchez,3,04-17-1912,Male,White,Merchant,New York,5
+Liverpool,Mauretania,First,Alan, Hernandez,99,04-16-1912,Female,Asian,Tailor,New York,5
+Liverpool,Celtic,First,Zeena, Al-sadiq,2,04-19-1912,Male,Asian,Merchant,New York,3
+Liverpool,Lusitania,Third,Abigail, Knaus,36,04-15-1912,Female,Asian,Mason,New York,4
+Liverpool,Baltic,Second,Priscilla, Hotchkiss,55,04-18-1912,Female,Hispanic,Tailor,New York,4
+Liverpool,Lusitania,Third,Evangelina, Bohannon,NA-,04-17-1912,Male,Black,Tailor,New York,2
+Southampton,Titanic,First,Muslim, El-safar,7,04-20-1912,Female,Other,Miner,Cherbourg,3
+Liverpool,Carpathia,Second,Isaiah, Banh,4,04-19-1912,Male,Other,Blacksmith,New York,4
+Southampton,Britannic,First,Wajeeb, Al-amer,40,04-19-1912,Female,Other,Carpenter,New York,1
+Liverpool,Lusitania,Second,Razeena, El-zadeh,14,04-16-1912,Female,White,Merchant,New York,1
+Southampton,Britannic,Second,Jade, Anderson,68,04-16-1912,Male,Hispanic,Shoemaker,New York,5
+Southampton,Olympic,Second,Noel, Ruiz,nineteen-one,04-18-1912,Male,White,Farmer,New York,2
+Liverpool,Baltic,Second,Jevonna, Allen,6,04-20-1912,Female,White,Merchant,New York,1
+Liverpool,Carpathia,First,Mahbooba, Al-sattar,4,04-15-1912,Female,Other,Carpenter,New York,5
+Liverpool,Mauretania,Second,Kelby, Goldstein,60,04-20-1912,Female,White,Tailor,New York,2
+Liverpool,Carpathia,Second,Kyrstye, Morgan,3,04-20-1912,Male,Other,Blacksmith,New York,2
+Liverpool,Mauretania,Second,Cherokee, Deere,nineteen-two,04-16-1912,Female,Asian,Baker,New York,3
+Liverpool,Celtic,Third,Deisey, Kumagai,58,04-19-1912,Male,Asian,None,Cherbourg,1
+Liverpool,Lusitania,First,Octavia, Glenn-bracey,98,04-16-1912,Female,Hispanic,Blacksmith,New York,4
+Liverpool,Adriatic,Second,Steffi, Rios-pacheco,93,04-20-1912,Male,White,Baker,New York,3
+Liverpool,Mauretania,First,Jared, Resendez,4,04-16-1912,Male,White,Merchant,New York,2
+Liverpool,Adriatic,Second,Salvador, Marrufo,23,04-18-1912,Male,Asian,Shoemaker,New York,5
+Liverpool,Adriatic,Third,Muzammil, El-hafeez,6,04-19-1912,Male,Hispanic,Miner,New York,3
+Liverpool,Carpathia,Second,Shanta, Collins,5,04-20-1912,Female,Asian,Tailor,New York,4
+Southampton,Olympic,Second,Labeeba, Al-malik,29,04-15-1912,Male,Hispanic,Carpenter,New York,2
+Liverpool,Mauretania,First,Calvin, Pablo,85,04-18-1912,Male,Asian,Blacksmith,New York,3
+Liverpool,Adriatic,First,Bryce, Cox,6,04-16-1912,Male,Asian,Weaver,New York,5
+Liverpool,Celtic,Second,Tiauna, Mcgowan,6,04-15-1912,Female,Other,Miner,Cherbourg,3
+Southampton,Britannic,First,Juwan, Gulaid,32,04-20-1912,Male,Other,Mason,New York,5
+Liverpool,Baltic,Second,Ricardo, Herrera Navarrete,58,04-17-1912,Female,Other,Carpenter,New York,1
+Southampton,Titanic,First,Benjamin, Madril,1,04-17-1912,Female,White,Blacksmith,New York,3
+Liverpool,Adriatic,Second,Faraah, El-hadi,87,04-18-1912,Male,Other,Weaver,New York,1
+Southampton,Olympic,Second,Faniola, Duncan,10,04-20-1912,Female,White,Merchant,New York,1
+Liverpool,Celtic,Second,Munisa, Al-mansoor,18,04-15-1912,Male,Asian,None,New York,4
+Liverpool,Aquitania,Second,Irquois, Hermanyhorses,1,04-17-1912,Female,Black,Farmer,New York,5
+Liverpool,Mauretania,Third,Haazim, Al-jamal,80,04-19-1912,Male,White,None,New York,1
+Liverpool,Aquitania,Third,Richard, Outhouse,38,04-20-1912,Male,Hispanic,Tailor,New York,1
+Liverpool,Lusitania,Third,Sean, Powell,2,04-16-1912,Female,Asian,None,New York,5
+Liverpool,Adriatic,Third,Kamiyanna, Pruett,55,04-18-1912,Female,Hispanic,Merchant,New York,3
+Liverpool,Baltic,Third,Caleb, Wilfahrt,86,04-17-1912,Male,Black,Shoemaker,New York,1
+Liverpool,Aquitania,Second,Chloe, Garnett,35,04-17-1912,Male,White,Mason,New York,5
+Southampton,Britannic,Third,Bach, Blackburn,11,04-18-1912,Female,Asian,Merchant,New York,1
+Liverpool,Adriatic,First,John, Chin,NA-,04-15-1912,Female,Asian,Miner,Cherbourg,3
+Liverpool,Lusitania,Second,Hamaama, Al-lone,22,04-15-1912,Female,Hispanic,Farmer,New York,3
+Southampton,Olympic,First,Alexandra, Roberts,56,04-16-1912,Female,Black,Shoemaker,Cherbourg,4
+Liverpool,Aquitania,Second,Dakota, Schell,5,04-17-1912,Female,White,Baker,New York,3
+Liverpool,Mauretania,First,Caleb, Solorzano,1,04-18-1912,Female,Other,None,New York,2
+Liverpool,Aquitania,Third,Hakeema, Al-shahin,67,04-17-1912,Male,Black,Blacksmith,New York,1
+Liverpool,Carpathia,Third,Rocky, Wall,1,04-18-1912,Female,Asian,Miner,New York,3
+Southampton,Titanic,Second,Marnita, Henkels,5,04-19-1912,Female,Asian,Carpenter,New York,5
+Liverpool,Aquitania,Second,Tonya, Lindsay,17,04-15-1912,Male,Other,Tailor,New York,4
+Southampton,Britannic,Third,Salvador, Medina,69,04-17-1912,Female,Hispanic,Miner,Cherbourg,4
+Southampton,Olympic,Second,Joshua, La,38,04-15-1912,Male,Black,Farmer,New York,1
+Liverpool,Carpathia,First,Hyun Sik, Kim,0,04-18-1912,Male,Hispanic,Miner,New York,1
+Southampton,Titanic,Third,Maysea, Mehta,90,04-19-1912,Male,Asian,Tailor,New York,5
+Liverpool,Baltic,First,Thanaa, El-nazir,55,04-16-1912,Male,Black,Weaver,New York,3
+Southampton,Olympic,Second,Phayd, Trujillo,6,04-15-1912,Female,White,None,Cherbourg,3
+Liverpool,Celtic,First,Vicente, Velasco,60,04-16-1912,Male,Other,Farmer,New York,1
+Liverpool,Baltic,Third,Byron, Dixon,26,04-15-1912,Female,Other,Merchant,New York,2
+Liverpool,Mauretania,First,Sierra, Cloud,5,04-16-1912,Male,Hispanic,Baker,New York,1
+Liverpool,Mauretania,First,Jota, Morgan,19,04-17-1912,Male,White,Miner,New York,4
+Liverpool,Mauretania,First,Lakshmi Priya, Ho,7,04-16-1912,Male,White,Tailor,New York,3
+Southampton,Titanic,Third,Devin, Prueitt,4,04-18-1912,Female,Asian,Carpenter,New York,5
+Southampton,Titanic,Third,Mary, Kirbow,47,04-15-1912,Male,Other,Tailor,New York,2
+Southampton,Titanic,Second,Dustin, Whitbeck,96,04-15-1912,Female,Black,Weaver,New York,3
+Southampton,Olympic,First,Daniel, Larsen,10,04-15-1912,Male,Asian,Tailor,New York,1
+Liverpool,Baltic,First,Benjamin, Scott,89,04-20-1912,Female,Black,Mason,New York,4
+Liverpool,Carpathia,First,Katie, Kinney,NA-,04-20-1912,Female,White,Weaver,New York,4
+Liverpool,Aquitania,Second,Sebastian, Prieto,7,04-15-1912,Female,White,Blacksmith,Cherbourg,3
+Liverpool,Adriatic,First,Amanda, Herzog,7,04-18-1912,Male,Asian,Weaver,New York,2
+Liverpool,Mauretania,Second,Cyron, Dou,45,04-18-1912,Female,Hispanic,Baker,New York,3
+Liverpool,Baltic,Third,Patrick, Ablan,3,04-16-1912,Male,Other,Tailor,New York,1
+Southampton,Titanic,Third,Dylan, Brunswig,10,04-17-1912,Male,Black,Carpenter,New York,5
+Southampton,Olympic,Third,Alexis, Stokes,22,04-19-1912,Male,Black,Carpenter,New York,3
+Southampton,Britannic,Second,Hamdaan, Al-greiss,87,04-20-1912,Male,Hispanic,Merchant,Cherbourg,5
+Liverpool,Carpathia,Third,Hung, Lim,34,04-18-1912,Male,Asian,Blacksmith,New York,5
+Southampton,Titanic,First,Ashley, Hall,42,04-18-1912,Female,Black,Miner,New York,2
+Liverpool,Mauretania,Third,Alexander, Vijayasarathy,47,04-19-1912,Male,Black,Baker,New York,5
+Liverpool,Celtic,Second,Khawme, Omar,8,04-16-1912,Male,Black,None,New York,3
+Liverpool,Lusitania,Third,Domenic, Loy,33,04-15-1912,Female,Black,Blacksmith,New York,1
+Liverpool,Carpathia,Second,Ivan, Soto Reyes,0,04-16-1912,Male,Asian,None,New York,1
+Liverpool,Adriatic,Second,Bilaal, El-othman,3,04-17-1912,Male,Black,Farmer,New York,2
+Liverpool,Aquitania,First,Mayela, Vargas,4,04-19-1912,Female,White,Shoemaker,New York,2
+Liverpool,Lusitania,First,Salmaan, El-ramadan,15,04-15-1912,Female,White,Shoemaker,New York,4
+Liverpool,Lusitania,Second,Eduardo, Trujillo,99,04-17-1912,Female,Asian,Merchant,New York,3
+Southampton,Titanic,First,Ines, Sandoval,8,04-15-1912,Male,White,Merchant,New York,5
+Liverpool,Lusitania,Third,Madeline, Oster,4,04-18-1912,Male,Asian,Shoemaker,Cherbourg,5
+Liverpool,Adriatic,Second,Kawkab, Al-amiri,96,04-15-1912,Male,Asian,Miner,New York,3
+Liverpool,Aquitania,First,Ilona, Campbell,1,04-19-1912,Male,Hispanic,None,New York,1
+Southampton,Olympic,Third,Marilu, Cotonuts,7,04-19-1912,Male,Hispanic,Blacksmith,New York,4
+Liverpool,Adriatic,First,Cody, Renner,84,04-15-1912,Male,White,Merchant,New York,4
+Liverpool,Baltic,First,Deirdre, Briseno,17,04-16-1912,Male,Asian,Tailor,New York,4
+Liverpool,Aquitania,Third,Benjamin, Geisert,2,04-16-1912,Female,Hispanic,None,Cherbourg,4
+Liverpool,Carpathia,Second,Geana, Aguirre,60,04-19-1912,Male,White,None,New York,3
+Southampton,Titanic,Second,Stephanie, Rodriguez Sosa,2,04-20-1912,Female,White,Carpenter,New York,4
+Liverpool,Lusitania,Third,Zahraaa, Al-amen,nineteen-five,04-16-1912,Male,Hispanic,None,New York,5
+Southampton,Titanic,Second,Grace, Williamson-lee,7,04-15-1912,Male,Asian,Baker,New York,5
+Liverpool,Mauretania,Second,Hanoona, El-hafeez,40,04-17-1912,Female,Asian,Miner,New York,2
+Liverpool,Celtic,First,Samantha, Her,6,04-16-1912,Male,Hispanic,Blacksmith,New York,4
+Liverpool,Carpathia,Second,Monique, Ferszt,7,04-15-1912,Male,Black,Shoemaker,New York,1
+Southampton,Olympic,Third,Zachary, Harrington,3,04-15-1912,Male,Black,Mason,New York,3
+Southampton,Olympic,Second,Joseph, Merlan,65,04-16-1912,Female,Hispanic,Shoemaker,New York,5
+Liverpool,Aquitania,Third,Zachary, Lucero,13,04-15-1912,Female,Other,Blacksmith,New York,5
+Liverpool,Baltic,First,Michaela, Mares,88,04-18-1912,Female,White,Miner,New York,2
+Southampton,Olympic,Second,Eli, Finkenbinder,3,04-18-1912,Female,Hispanic,Blacksmith,New York,1
+Liverpool,Lusitania,Second,Marco, Rios Armendariz,46,04-16-1912,Female,Asian,Farmer,Cherbourg,1
+Southampton,Olympic,First,Frederick, Johnson,49,04-19-1912,Male,Hispanic,Mason,New York,4
+Liverpool,Aquitania,Second,Lars, Lee,68,04-20-1912,Female,Asian,Merchant,New York,3
+Liverpool,Carpathia,First,Ramona, Kekahbah,NA-,04-19-1912,Female,Black,Baker,New York,3
+Liverpool,Baltic,Second,Mariah, Mcneal,21,04-17-1912,Male,White,Shoemaker,New York,2
+Liverpool,Carpathia,Third,Alberto, Pizarro,nineteen-seven,04-16-1912,Male,Hispanic,Baker,New York,5
+Liverpool,Carpathia,Second,Daniel, Summers,39,04-16-1912,Male,Hispanic,Tailor,New York,3
+Southampton,Titanic,Third,Craig, Meza,45,04-20-1912,Male,Black,Shoemaker,New York,4
+Liverpool,Baltic,Second,Kaitlin, Bau,16,04-15-1912,Male,Other,None,New York,4
+Southampton,Britannic,Second,Carlee, Stapleton,1,04-18-1912,Female,Hispanic,Mason,New York,5
+Southampton,Titanic,Second,Tiffany, Sanders,33,04-16-1912,Male,Other,Merchant,New York,3
+Southampton,Titanic,Third,Qisma, Al-wahba,50,04-19-1912,Female,Asian,Shoemaker,New York,5
+Liverpool,Baltic,Second,Ciara, Garcia,2,04-19-1912,Female,White,Blacksmith,New York,2
+Liverpool,Celtic,Third,Jyni, Joseph,14,04-17-1912,Male,Black,Merchant,New York,5
+Liverpool,Lusitania,First,Ben, Rastle,43,04-18-1912,Female,Other,Merchant,New York,1
+Southampton,Titanic,First,Tiana, Montoya,50,04-20-1912,Female,Hispanic,Miner,New York,5
+Southampton,Olympic,Second,Zaahir, Al-begum,93,04-20-1912,Male,Black,None,New York,4
+Liverpool,Carpathia,Third,Adriana, Duran,4,04-19-1912,Female,White,Tailor,New York,2
+Liverpool,Lusitania,Third,Christopher, Chavez,3,04-15-1912,Female,White,Carpenter,New York,3
+Liverpool,Celtic,Third,Tapedza, Williams,22,04-18-1912,Male,White,Weaver,New York,5
+Southampton,Britannic,Second,Siddeeqa, El-arshad,48,04-17-1912,Female,Asian,Miner,New York,5
+Liverpool,Carpathia,Second,Jameela, El-mattar,8,04-19-1912,Male,Black,Tailor,New York,2
+Liverpool,Baltic,Second,Sanad, El-khawaja,80,04-16-1912,Male,Black,None,New York,3
+Liverpool,Carpathia,First,Da'na, Charles,3,04-20-1912,Male,White,Farmer,New York,3
+Liverpool,Carpathia,Second,Jorden, Fleming,52,04-18-1912,Female,Asian,Miner,New York,3
+Liverpool,Celtic,Second,Johnny, Whitlock,84,04-19-1912,Male,Asian,Blacksmith,New York,2
+Southampton,Olympic,First,Kimberly, Castillo,54,04-16-1912,Female,Other,Miner,New York,2
+Liverpool,Baltic,Second,Daniella, Cordova,63,04-19-1912,Female,Hispanic,Shoemaker,New York,1
+Liverpool,Aquitania,First,Konda, Rundle,5,04-17-1912,Male,Other,Blacksmith,New York,3
+Liverpool,Celtic,Second,Anjanet, Anderson,76,04-15-1912,Male,Other,Carpenter,Cherbourg,5
+Liverpool,Carpathia,Third,Ena, Thompson,58,04-16-1912,Male,Asian,Miner,New York,3
+Liverpool,Lusitania,Third,Leon, Mcgill,33,04-16-1912,Male,White,Miner,New York,4
+Southampton,Olympic,Second,Selina, Vasquez,68,04-16-1912,Male,White,Shoemaker,New York,2
+Liverpool,Celtic,Third,Kirk, Holt,6,04-15-1912,Female,Black,Farmer,New York,5
+Liverpool,Lusitania,First,Lance, Sayyid,43,04-17-1912,Female,Asian,Blacksmith,New York,1
+Southampton,Titanic,Second,Miah, Nguyen,99,04-15-1912,Female,Other,Baker,New York,5
+Liverpool,Lusitania,Third,Derrick, Fleming-joseph,4,04-15-1912,Male,Hispanic,Mason,New York,4
+Liverpool,Carpathia,Second,Tommy, Nekkanti,13,04-17-1912,Male,Black,None,New York,5
+Southampton,Titanic,First,Alexander, Nguyen,0,04-20-1912,Male,Black,Farmer,New York,2
+Liverpool,Lusitania,First,Jonathan, Yates,1,04-15-1912,Female,Hispanic,Farmer,New York,4
+Liverpool,Adriatic,Second,Kelli, Spaulding,93,04-15-1912,Male,Hispanic,Weaver,New York,5
+Liverpool,Lusitania,Second,Sky, Garcia,33,04-20-1912,Male,Other,Carpenter,New York,3
+Southampton,Olympic,Second,Minh, Pabalan,3,04-19-1912,Female,Asian,Farmer,New York,2
+Liverpool,Carpathia,Third,Anselmo, Zavala,81,04-19-1912,Female,Hispanic,Baker,Cherbourg,3
+Liverpool,Aquitania,Second,Caela, Wallin,22,04-18-1912,Male,Hispanic,Shoemaker,New York,3
+Liverpool,Carpathia,First,Matthew, Tahlo,13,04-20-1912,Female,Other,Shoemaker,New York,2
+Southampton,Titanic,Second,Taneil, Deveaux,63,04-17-1912,Male,Black,Baker,New York,3
+Southampton,Britannic,First,Alyce, Kelly,1,04-19-1912,Female,Black,Mason,New York,1
+Southampton,Britannic,First,Deshaun, Gardner,51,04-15-1912,Female,Black,Shoemaker,New York,2
+Liverpool,Aquitania,Third,Dayton, Ubungen Miller,8,04-20-1912,Female,Black,Miner,New York,3
+Liverpool,Carpathia,First,Zachary, Monash,8,04-17-1912,Male,Hispanic,Weaver,New York,2
+Liverpool,Baltic,First,Hatteras, Marshall,54,04-15-1912,Female,Black,Blacksmith,Cherbourg,1
+Liverpool,Aquitania,First,Kendra, Shevela,23,04-20-1912,Male,White,Farmer,New York,3
+Southampton,Titanic,Second,Derek, Locust,21,04-20-1912,Male,Asian,Blacksmith,New York,4
+Southampton,Olympic,Third,Dallas, Bentley,6,04-20-1912,Male,Asian,Blacksmith,New York,4
+Liverpool,Aquitania,First,David, Barton,21,04-15-1912,Male,Other,Carpenter,New York,1
+Southampton,Olympic,Second,Tori, Elder,6,04-18-1912,Male,Asian,Farmer,New York,5
+Liverpool,Baltic,Second,Raja, Ray,3,04-16-1912,Female,Asian,Merchant,New York,1
+Liverpool,Adriatic,Second,Melissa, Schweigert,33,04-19-1912,Male,Black,None,New York,2
+Southampton,Olympic,Second,Renee, Danner,16,04-20-1912,Female,Other,Tailor,New York,5
+Liverpool,Lusitania,First,Amina, Dozier,96,04-15-1912,Male,Other,Merchant,New York,2
+Liverpool,Baltic,First,Luanne, Kirksey,41,04-15-1912,Male,Hispanic,Blacksmith,New York,5
+Liverpool,Celtic,First,Raaniya, El-nasrallah,17,04-19-1912,Female,Other,Mason,New York,2
+Liverpool,Celtic,Third,Kayla, Castellano,57,04-20-1912,Female,White,Mason,New York,3
+Southampton,Titanic,Third,Taraleah, Marquez,25,04-20-1912,Male,Hispanic,Shoemaker,New York,3
+Southampton,Titanic,Third,Lennay, Horton,NA-,04-18-1912,Male,White,Tailor,New York,3
+Liverpool,Carpathia,First,Makayla, Bradford,98,04-19-1912,Male,Asian,Miner,New York,2
+Southampton,Titanic,Second,Spring, Montoya,72,04-17-1912,Male,Hispanic,Merchant,New York,3
+Liverpool,Adriatic,First,Elijah, Walker,38,04-18-1912,Female,Asian,Merchant,New York,3
+Southampton,Britannic,First,Andrea, Martinez,1,04-17-1912,Female,Asian,Miner,New York,1
+Liverpool,Lusitania,Second,Summer, Walck,46,04-17-1912,Male,Other,Mason,New York,1
+Southampton,Britannic,First,Mudrik, Al-ebrahim,63,04-20-1912,Male,Hispanic,Shoemaker,New York,1
+Liverpool,Mauretania,Third,Lavonna, Clark,1,04-19-1912,Female,White,Baker,New York,4
+Southampton,Olympic,Second,James, Metzger,36,04-19-1912,Female,Other,Weaver,New York,3
+Southampton,Britannic,Third,Nicole, Valdez,59,04-20-1912,Female,Other,Carpenter,New York,1
+Southampton,Titanic,Third,Geoffrey, Maldonado,7,04-19-1912,Male,White,None,New York,2
+Liverpool,Aquitania,Third,Tanner, Hyatt,54,04-18-1912,Female,Other,Weaver,Cherbourg,4
+Liverpool,Lusitania,First,James, Klocker,52,04-17-1912,Male,White,None,New York,4
+Liverpool,Baltic,Third,Heather, Bair,30,04-20-1912,Male,Black,Blacksmith,New York,2
+Southampton,Olympic,First,Shukri, El-amiri,80,04-17-1912,Female,Asian,None,New York,4
+Liverpool,Baltic,First,Wyona, Martinez,90,04-16-1912,Male,Other,None,New York,2
+Southampton,Olympic,First,Andre, Williams Martin,28,04-15-1912,Female,Black,Blacksmith,New York,5
+Liverpool,Baltic,Third,Sean, Stowell,51,04-17-1912,Male,Other,Baker,New York,1
+Liverpool,Adriatic,Third,Dante, Labishak,34,04-19-1912,Male,Black,Carpenter,New York,4
+Southampton,Britannic,First,Sheikhnoor, Harris,77,04-18-1912,Female,Other,Farmer,New York,3
+Liverpool,Adriatic,First,Taylor, O'callaghan,6,04-19-1912,Male,Other,None,New York,2
+Liverpool,Baltic,First,Jackeline, Griego,49,04-17-1912,Male,Hispanic,Carpenter,New York,1
+Southampton,Britannic,Second,Aquasia, Fortenberry,42,04-15-1912,Male,White,Baker,New York,1
+Southampton,Olympic,First,Yusri, El-ishmael,99,04-20-1912,Male,Other,Merchant,New York,2
